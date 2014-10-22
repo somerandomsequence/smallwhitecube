@@ -1,0 +1,64 @@
+Woohoo. Qualnet Hacks....
+
+Below is a high level description of what's in this tarball. For
+more information, look at the top of the individual patch files,
+and, worst case, read the source. Apply the patches to the qualnet
+source tree as you would expect or as documented in the patch. 
+They were mostly generated with "svn diff" and t.f. 
+use something like diff -u.
+
+Licensing/authorship is as follows unless stated 
+otherwise somewhere else (like in the patch):
+
+Author : Caleb Phillips <cphillips@smallwhitecube.com>
+License: Academic/MIT/BSD/Beerware/its-free-but-dont-sue-me
+Version: 2009.06.02
+
+===== qualnet-4.5.1-edam-*.patch ====
+
+   Implements the The Environmental Directivity Antenna Model (EDAM)
+   for Qualnet 4.5.1. Look at the patch for extensive description
+   and examples.
+
+===== qualnet-4.5-dot11-trace.* =====
+
+  Implements TX-only packet tracing for the DOT11 (i.e. 802.11) module.
+
+  See qualnet-4.5-dot11-trace.example.config for an example of how to use.
+
+===== qualnet-4.5-bsd-ps.* =====
+
+  Implements the bounded slowdown powersaving algorithm
+  as suggested by Krashinsky and Balakrishnan:
+
+  @ARTICLE{BoundedSlowdown,
+    author = {Ronny Krashinsky and Hari Balakrishnan},
+    title = {Minimizing energy for wireless web access with bounded slowdown},
+    journal = {Wirel. Netw.},
+    year = {2005},
+    volume = {11},
+    pages = {135--148},
+    number = {1-2},
+    address = {Hingham, MA, USA},
+    doi = {http://dx.doi.org/10.1007/s11276-004-4751-z},
+    issn = {1022-0038},
+    owner = {cphillips},
+    publisher = {Kluwer Academic Publishers},
+    timestamp = {2008.10.29}
+  }
+
+  And used for my work in:
+
+  @INPROCEEDINGS{,
+    author = {Caleb Phillips and Suresh Singh and Douglas Sicker and Dirk Grunwald},
+    title = {Techniques for Simulation of Realistic Infrastructure Wireless Network
+  	     Traffic},
+    booktitle = {7th International Symposium on Modeling and Optimization in Mobile,
+   	         Ad Hoc, and Wireless Networks (WiOpt)},
+    year = {2009},
+    month = {June},
+    owner = {cphillips},
+    timestamp = {2009.04.24}
+  }
+
+  See qualnet-4.5-bsd-ps.example.config for an example of how to use.

@@ -3,7 +3,6 @@ layout: default
 ---
 <img src="/images/me_reading.jpg">
 
-
 Hi, my name is Caleb Phillips. This is my webpage. 
 
 There's some other stuff I'm responsible for on the Internets:
