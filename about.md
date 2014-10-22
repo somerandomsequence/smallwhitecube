@@ -3,9 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Me on Bear Peak in Boulder, Colorado](/images/me_bear_peak.jpg)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is an "about" page, which typically explains a couple of things, namely the purpose of the website and the person who is responsible for its creation.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My name is Caleb Phillips. I'm a research scientist living in Boulder, Colorado. I am currently employed at the [National Renewable Energy Laboratory](http://nrel.gov/) in Golden, Colorado. I am also an Adjunct Assistant Professor in the Computer Science Department at the University of Colorado, Boulder. I did my graduate work on [geostatistical approaches to wireless network coverage mapping](thesis) with advisers [Doug Sicker](http://spot.colorado.edu/~sicker/) and [Dirk Grunwald](http://systems.cs.colorado.edu/people/faculty/dirk-grunwald/). I've worked in a number of research areas and my primary focus is on applying optimization strategies, parallel computation, and statistical analysis to diverse problems. Currently, I have active research projects on food distribution (and the simultaneous problems of hunger and waste), applications of chaotic mathematics to tasks in sports physiology (particularly rock climbing), and a number of projects in the realm of wireless systems. There's an up to date list of my research activities and academic publications available [here](research).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Teaching is another passion. I've taught at both the university and high school level, the former as an instructor at the University of Colorado, and the latter as a National Science Foundation fellow designing STEM-oriented curriculum to integrate into traditional education frameworks at Boulder High School. I have a particular affinity for direct mentoring and have had the opportunity to work with a number of excellent students through various programs, including [INVST community studies](http://www.colorado.edu/communitystudies/), the [NSF REU program](http://www.nsf.gov/crssprgm/reu/), and the [Casey Feldman Memorial Foundation](http://www.caseyfeldmanfoundation.org/). 
+
+[Small White Cube](http://smallwhitecube.com) is the name of my consulting sole-proprietorship, which I founded in June, 2001. I rarely take on new clients, but nevertheless maintain a fairly steady stream of part-time consulting work. I am a co-founder of the 501(c)3 nonprofit organizations [Boulder Food Rescue](http://boulderfoodrescue.org), [Falling Fruit](http://fallingfruit.org), and the [Food Rescue Alliance](http://foodrescuealliance.org).  Besides Boulder, I've lived in the San Francisco Bay Area, Chicago, Hamilton, New Zealand, and briefly in the Khumbu valley in the Nepal Himalaya. I grew up in Portland, Oregon. I graduated from Portland State University in 2006, and I worked as a researcher under [Professor Suresh Singh](http://cs.pdx.edu/~singh), after graduation. I was also an active member of the community wireless non-profit, the [Personal Telco Project](http://personaltelco.net) where I was the Director of Education.
+
+When I'm not working, I spend most my waking hours with friends, family, or engaged in one of a large number of esoteric or atheletic hobbies. I run, climb, knit, cook, brew beer, bicycle, hike, roll jujitsu, bake, and take photos. 
+
+This website serves as a hub for personal and professional content. It is build using [Jekyll](http://jekyllrb.com/) and hosted on my server "[erichtho](http://en.wikipedia.org/wiki/Erichtho)", which is running [Ubuntu Linux](http://ubuntu.com) and the [Lighttpd webserver](http://www.lighttpd.net/). This is the 6th generation of my personal website ([4th](https://web.archive.org/web/20060419030337/http://smallwhitecube.com/), [5th](https://web.archive.org/web/20130428013216/http://smallwhitecube.com/doku.php)).
+
+If you want to contact me, the best way is to send an email to cphillips at the domain this website is hosted at.
