@@ -161,16 +161,6 @@ Oregon in 2007.
 
 [CRAWDAD:pdx/vwave](http://www.crawdad.org/meta.php?name=pdx/vwave). Dataset of wireless LAN traffic around Portland, Oregon using a commercial sniffer VWave. 2007.
 
-##  Research Software 
-
-[Path Loss Research Utilities](/software/pl-software/pl_software_20110912.tar.gz) - A motley collection of useful programs for doing research on path loss models.
-
-[QualNet Hacks](/software/qualnet-hacks/calebs_qualnet_hacks_latest.tar.gz) - Useful hacks and additions for the QualNet 4.5 simulator including EDAM (Effective Directivity Antenna Model). 
-
-[Traffic Simulation and Classification Software](/software/traffic-generation/traffic_generation_20090604.tar.gz) - A framework for generating real-as-in-really-real workloads in simulations of infrastructure wireless networks. 
-
-[Stochastic Similarity](http://www.cs.pdx.edu/~singh/software/similarity-0.1.tar.gz) - Matlab code to implement the stochastic similarity metric of Nechyba et al..
-
 ## Research Collaborators
 
 *  [Eric Anderson](http://systems.cs.colorado.edu/~andersoe/) (Carnegie Melon University)

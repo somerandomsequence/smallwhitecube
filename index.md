@@ -7,11 +7,11 @@ Hi, my name is Caleb Phillips. This is my webpage.
 
 There's some other stuff I'm responsible for on the Internets:
 
-*  [Boulder Food Rescue - Sustainable Food Rescue in Boulder, CO](http://boulderfoodrescue.org)
-*  [Food Rescue Alliance - Colorado's Food Rescuers](http://foodrescuealliance.org)
-*  [Falling Fruit - A Wiki-Wiki-Map of the World's Edibles](http://fallingfruit.org)
-*  [Strange Beta - Chaotic climbing route setting](http://strangebeta.com)
-*  [SWCURL - Yet another URL shortener service](http://swcurl.com)
+*  [Falling Fruit](http://fallingfruit.org)
+*  [Boulder Food Rescue](http://boulderfoodrescue.org)
+*  [Food Rescue Alliance](http://foodrescuealliance.org)
+*  [Strange Beta](http://strangebeta.com)
+*  [SWCURL](http://swcurl.com)
 
 And, some other places you might find me:
 

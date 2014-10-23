@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Posts
+title: Writing
 permalink: /posts/
 ---
+Sometimes I write things and put them here. Not very often, but sometimes.
+
 <div class="home">
 
   <ul class="post-list">
