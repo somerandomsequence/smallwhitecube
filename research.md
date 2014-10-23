@@ -85,7 +85,9 @@ University of Colorado at Boulder, Tech. Report. CU-CS-1086-11. September, 2011.
 
 US Provisional Patent Serial Number 61/743,703, “Wireless Coverage Mapping Using Geostatistics”
 
-## Popular Press
+## Popular Press (Selected)
+
+Engineering An End To Food Waste With Smarter Logistics For Our Leftovers. Fast Company Co.Exist. January 30, 2014. By Stan Alcorn. ([link](http://www.fastcoexist.com/3025169/engineering-an-end-to-food-waste-with-smarter-logistics-for-our-leftovers))
 
 Found fruit: Online map is gateway to edibles. Associated Press. Donna Bryson. Syndicated in newspapers worldwide ([list](https///www.google.com/search?q=%22Found+Fruit/+Online+Map+Is+Gateway+to+Edibles%22+OR+%22Sharing+the+harvest/+New+online+map+identifies+fruit+free+for+the+picking%22+OR+(%22fallingfruit.org%22+AND+%22donna+bryson%22)&num=100&hl=en&noj=1&ei=tkShUZeGCabvygGu_4HYCg&start=0&sa=N&filter=0&biw=1436&bih=783)), including the Denver Post, San Francisco Chronicle, Washington Post, Calgary Herald, and Taiwan News. ([link](http://abcnews.go.com/Health/wireStory/found-fruit-online-map-gateway-edibles-19182961#.UZOplsp1Y7t))
 
