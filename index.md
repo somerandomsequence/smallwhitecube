@@ -9,7 +9,6 @@ There's some other stuff I'm responsible for on the Internets:
 
 *  [Falling Fruit](http://fallingfruit.org)
 *  [Boulder Food Rescue](http://boulderfoodrescue.org)
-*  [Food Rescue Alliance](http://foodrescuealliance.org)
 *  [Strange Beta](http://strangebeta.com)
 *  [SWCURL](http://swcurl.com)
 

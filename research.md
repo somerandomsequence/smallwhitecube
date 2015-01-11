@@ -109,6 +109,8 @@ National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://ww
 
 ## Teaching and Advising
 
+Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2015.
+
 Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393) Mentor. University of Colorado, Boulder Food Rescue. 2012 - 2014.
 
 National Science Foundation (NSF) [Graduate Teaching](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5472) (GK-12) Fellow. University of Colorado, Boulder/Boulder Highschool. 2010 - 2012.
