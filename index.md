@@ -14,8 +14,8 @@ There's some other stuff I'm responsible for on the Internets:
 
 And, some other places you might find me:
 
-*  [Github](https///github.com/somerandomsequence)
-*  [Gittip](https///www.gittip.com/Caleb%20Phillips/)
+*  [Github](https://github.com/somerandomsequence)
+*  [Gittip](https://www.gittip.com/Caleb%20Phillips/)
 *  [Flickr](http://flickr.com/photos/somerandomsequence)
 *  [Brewtoad](http://www.brewtoad.com/users/50568)
 *  [Mealsharing](http://www.mealsharing.com/users/caleb-p)
