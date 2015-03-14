@@ -21,7 +21,7 @@ organizations in cities around the US for managing their operations.
 
 [Parallel SSA](https://github.com/somerandomsequence/Parallel-SSA) - Code to perform spatial simulated annealing (SSA) in parallel on a compute cluster. Geared towards optimized sampling for my dissertation research.
 
-[The Second Kitchen](https://code.google.com/p/tsk-webapp/) - Web-based inventory tracking and point-of-sale system for a food buying cooperative in Boulder, Colorado. Now used by an organization in Denver as well.
+[The Second Kitchen](https://github.com/somerandomsequence/tsk-webapp) - Web-based inventory tracking and point-of-sale system for a food buying cooperative in Boulder, Colorado. Now used by an organization in Denver as well.
 
 [Path Loss Research Utilities](/software/pl-software/pl_software_20110912.tar.gz) - A motley collection of useful programs for doing research on path loss models.
 

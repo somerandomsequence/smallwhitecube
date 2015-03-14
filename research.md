@@ -9,13 +9,15 @@ Here you will find an up to date list of my research publications and teaching a
 
 Key: C = Conference, J = Journal, T = Technical Report, O = Other
 
+[J7] Grant S. Lipman, Kristin Fontes, Becky Higbee, Michael Shaheen, Nicholas C. Kanaan, Caleb Phillips, Dave Pomeranz, Patrick Cain, Carolyn Meyer, Sean Wentworth. Study Looking at End Expiratory Pressure for Altitude Illness Decrease (SLEEP AID): A Randomized Controlled Trial. Wilderness and Environmental Medicine. Volume 26. Issue 1. March 2015. ([download](http://www.wemjournal.org/article/S1080-6032%2814%2900310-X/abstract))
+
 [C16] Steven K. Dailey, Caleb Phillips, Joseph M. Radley, Michael T. Archdeacon. Achieving Anatomic Acetabular Fracture Reduction - When is the Best Time to Operate? American Academy of Orthopaedic Surgeons (AAOS) Annual Meeting. March, 2015.
 
-[J6] Eric Anderson, Caleb Phillips, Douglas Sicker, Dirk Grunwald Optimization Decomposition for Scheduling and System Configuration in Wireless Networks ACM/IEEE Transactions on Networking, 2013. February, 2014. Volume 22. Issue 1. 
+[J6] Eric Anderson, Caleb Phillips, Douglas Sicker, Dirk Grunwald Optimization Decomposition for Scheduling and System Configuration in Wireless Networks ACM/IEEE Transactions on Networking. February, 2014. Volume 22. Issue 1. 
 
 [J5] Caleb Phillips, Rhonda Hoenigman, Becky Higbee, Tom Reed. Understanding the sustainability of retail food recovery. PLOS One. October 10, 2013. ([download](http://dx.plos.org/10.1371/journal.pone.0075530))
 
-[T8] Caleb Phillips, Rhonda Hoenigman, Shari Leyshon, and Becky Higbee. Nutrition and very perishable food rescue: a study on the contributions of fresh produce to one food relief agency in Boulder, Colorado. Technical Report. Boulder Food Rescue, Inc. October 30, 2012.
+[T9] Caleb Phillips, Rhonda Hoenigman, Shari Leyshon, and Becky Higbee. Nutrition and very perishable food rescue: a study on the contributions of fresh produce to one food relief agency in Boulder, Colorado. Technical Report. Boulder Food Rescue, Inc. October 30, 2012.
 
 [C15] Caleb Phillips, Douglas Sicker, and Dirk Grunwald. Practical Radio Environment Mapping with Geostatistics. IEEE Dynamic Spectrum Access Networks 2012 (DySPAN 2012). 20%. ([paper](/pdfs/papers/dyspan2012.pdf),[slides](http://prezi.com/skk03hba2vlx/dyspan-2012/))
 
@@ -23,18 +25,18 @@ Key: C = Conference, J = Journal, T = Technical Report, O = Other
 
 [J4] Caleb Phillips, Douglas Sicker, and Dirk Grunwald. Bounding the Practical Error of Path Loss Models. International Journal of Antennas and Propagation. Hindawi Publishing Corporation. Volume 2012. ([download](http://www.hindawi.com/journals/ijap/2012/754158/))
 
-[J3] Caleb Phillips, Douglas Sicker, and Dirk Grunwald. A Survey of Wireless Path Loss Prediction and Coverage Mapping Methods. IEEE Communications Society Surveys and Tutorials. ([preprint](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6165627&contentType=Early+Access+Articles&searchField%3DSearch_All%26queryText%3DA+Survey+of+Wireless+Path+Loss+Prediction+and+Coverage+Mapping+Methods))
+[J3] Caleb Phillips, Douglas Sicker, and Dirk Grunwald. A Survey of Wireless Path Loss Prediction and Coverage Mapping Methods. IEEE Communications Society Surveys and Tutorials. ([download](/pdfs/papers/ieeesurvey2013.pdf))
 
 [J2] Caleb Phillips, Lee Becker, and Elizabeth Bradley. Strange Beta: An Assistance System for Indoor Rock Climbing Route Setting. Chaos: An Interdisciplinary Journal of Nonlinear Science. American Institute of Physics. Volume 22, Issue 1. March, 2012. ([download](http://link.aip.org/link/?CHA/22/013130))
 
 [O2] Caleb Phillips, Douglas Sicker, and Dirk Grunwald. GENI WiMax: Wireless Coverage Mapping using Geostatistical Techniques. Invited Demo. Global Environment for Networking Innovation Conference 12 (GEC 12). Kansas City, Missouri. November 2-4, 2011.
 
-[T7] Caleb Phillips, Lee Becker, and Elizabeth Bradley. Strange Beta: An Assistance System for Indoor Rock Climbing Route Setting Using Chaotic Variations and Machine Learning. University of Colorado at Boulder, Tech. Report CU-CS-1088-11. October, 2011. ([download](http://www.cs.colorado.edu/department/publications/reports/docs/CU-CS-1088-11.pdf))
+[T8] Caleb Phillips, Lee Becker, and Elizabeth Bradley. Strange Beta: An Assistance System for Indoor Rock Climbing Route Setting Using Chaotic Variations and Machine Learning. University of Colorado at Boulder, Tech. Report CU-CS-1088-11. October, 2011. ([download](http://www.cs.colorado.edu/department/publications/reports/docs/CU-CS-1088-11.pdf))
 
-[T6] Caleb Phillips, Douglas Sicker, and Dirk Grunwald. The Stability of the Longley-Rice Irregular Terrain Model for Typical Problems.
+[T7] Caleb Phillips, Douglas Sicker, and Dirk Grunwald. The Stability of the Longley-Rice Irregular Terrain Model for Typical Problems.
 University of Colorado at Boulder, Tech. Report. CU-CS-1086-11. September, 2011. ([download](/pdfs/papers/cu_cs_1086_11.pdf))
 
-[T5] Caleb Phillips, Rhonda Hoenigman, and Becky Higbee. Food Redistribution as Optimization. University of Colorado at Boulder, Tech. Report. CU-CS-1085-11. September, 2011. ([download](/pdfs/papers/cu_cs_1085_11.pdf))
+[T6] Caleb Phillips, Rhonda Hoenigman, and Becky Higbee. Food Redistribution as Optimization. University of Colorado at Boulder, Tech. Report. CU-CS-1085-11. September, 2011. ([download](/pdfs/papers/cu_cs_1085_11.pdf))
 
 [O1] Caleb Phillips. *Geostatistical Techniques for Practical Wireless Coverage Mapping*. ACM MobiSys Ph.D. Forum. Washington, DC. June 28, 2011. **Best Presentation Award**.
 
@@ -46,7 +48,7 @@ University of Colorado at Boulder, Tech. Report. CU-CS-1086-11. September, 2011.
 
 [J1] Eric Anderson, Caleb Phillips, Douglas Sicker, and Dirk Grunwald. *Modeling Environmental Effects on Directionality*. Mathematical and Computer Modeling Journal. Special Issue on Modeling and Simulation of Wireless Networks. June, 2010. Elsevier. ([download](/pdfs/papers/mcmj2010.pdf))
 
-[T4] Gary Yee, Caleb Phillips, Douglas Sicker, and Dirk Grunwald. Wireless Networking Optimizations for Studying Algorithm Interactions. University of Colorado at Boulder, Tech. Report. CU-CS-1070-10. 2010. ([download](http://hdl.handle.net/10971/1253)]
+[T5] Gary Yee, Caleb Phillips, Douglas Sicker, and Dirk Grunwald. Wireless Networking Optimizations for Studying Algorithm Interactions. University of Colorado at Boulder, Tech. Report. CU-CS-1070-10. 2010. ([download](http://hdl.handle.net/10971/1253)]
 
 [C11] Caleb Phillips and Elizabeth Bradley. *Strange Beta: Chaotic Variations for Indoor Rock Climbing Route Setting*. International Conference on Applications in Nonlinear Dynamics (ICAND 2010). Lake Louise, Canada. September, 21-24 2010. Invited. ([download](/pdfs/papers/icand10.pdf)) 
 
@@ -60,10 +62,10 @@ University of Colorado at Boulder, Tech. Report. CU-CS-1086-11. September, 2011.
 
 [C6] Eric Anderson, Caleb Phillips, Douglas Sicker, and Dirk Grunwald. *Modeling Environmental Effects on Directionality in Wireless Networks*. 5th International workshop on Wireless Network Measurements ([WiNMee 2009](http://cmclab.rice.edu/~winmee/)). Seoul, Korea. June 26, 2009. [download](/pdfs/papers/winmee2009.pdf))
 
-[T3] Caleb Phillips and Elizabeth Bradley. *Strange Beta: Chaotic Variations for Indoor Rock Climbing Route Setting*. University of Colorado at Boulder, Tech. Report. CU-CS-1057-09. 2009.
+[T4] Caleb Phillips and Elizabeth Bradley. *Strange Beta: Chaotic Variations for Indoor Rock Climbing Route Setting*. University of Colorado at Boulder, Tech. Report. CU-CS-1057-09. 2009.
 ([download](http://hdl.handle.net/10971/1240))
 
-[T2] Eric Anderson, Caleb Phillips, Gary Yee, Douglas Sicker, and [Dirk Grunwald](http://systems.cs.colorado.edu/mediawiki/index.php/User:Grunwald). *Challenges in Deploying Steerable Wireless Testbeds*. University of Colorado at Boulder, Tech. Report. CU-CS-1058-09. 2009.
+[T3] Eric Anderson, Caleb Phillips, Gary Yee, Douglas Sicker, and [Dirk Grunwald](http://systems.cs.colorado.edu/mediawiki/index.php/User:Grunwald). *Challenges in Deploying Steerable Wireless Testbeds*. University of Colorado at Boulder, Tech. Report. CU-CS-1058-09. 2009.
 ([download](http://hdl.handle.net/10971/1241))
 
 [C5] Caleb Phillips, Russell Senior, Douglas Sicker, and Dirk Grunwald. *Robust Coverage and Performance Testing for Large-Area Wireless Networks*. [AccessNets 2008](http://www.accessnets.org/2008/). Las Vegas, Nevada. October 15 - 17, 2008. 43% (including invited papers). ([download](/pdfs/papers/accessnets08.pdf))
@@ -74,7 +76,7 @@ University of Colorado at Boulder, Tech. Report. CU-CS-1086-11. September, 2011.
 
 [C2] Caleb Phillips and Suresh Singh. *An Empirical Activity Model for WLAN Users*. [IEEE INFOCOM 2008](http://www.ieee-infocom.org/2008/) Mini-Symposium. Pheonix, AZ. April 14 - 17, 2008. 29% (9.3% mini-conference, 21% main-conference). ([download](/pdfs/papers/infocom08.pdf))
 
-[T1] Eric Anderson, Caleb Phillips, Douglas Sicker, and Dirk Grunwald. *Modeling Directionality in Wireless Networks*. University of Colorado at Boulder, Tech. Report. CU-CS-1044-08. 2008. 
+[T2] Eric Anderson, Caleb Phillips, Douglas Sicker, and Dirk Grunwald. *Modeling Directionality in Wireless Networks*. University of Colorado at Boulder, Tech. Report. CU-CS-1044-08. 2008. 
 ([download](http://hdl.handle.net/10971/1228))
 
 [C1] Caleb Phillips and [Suresh Singh](http://cs.pdx.edu/~singh). *Analysis of WLAN traffic in the Wild*. [IFIP Networking 2007](http://www.ifip-networking.com) (short paper). Altanta, GA. May 14 - 18, 2007. (22.5% main conference) ([download](/pdfs/papers/networking07.pdf)).
@@ -181,6 +183,8 @@ Oregon in 2007.
 *  Rhonda Hoenigman (University of Colorado, Boulder)
 *  [Harold Gonzales](http://systems.cs.colorado.edu/~gonzales/) (Google)
 *  [Dirk Grunwald](http://systems.cs.colorado.edu/mediawiki/index.php/User:Grunwald) (University of Colorado, Boulder)
+*  [Nicholas Kanaan](http://healthcare.utah.edu/fad/mddetail.php?physicianID=u0844825) (University of Utah)
+*  [Grant Lipman](https://med.stanford.edu/profiles/grant-lipman) (Stanford)
 *  [Tony McGregor](http://www.cs.waikato.ac.nz/genquery.php?linklevel=4&linklist=cs&linkname=J_to_P&linktype=report&listby=Name&lwhere=unique_record_id=11&children=) (University of Waikato)
 *  [Scott Raynel](http://www.wand.net.nz/~smr26/) (University of Waikato)
 *  [Douglas Sicker](http://spot.colorado.edu/~sicker/index.html) (University of Colorado, Boulder)
