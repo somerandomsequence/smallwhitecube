@@ -9,6 +9,12 @@ Here you will find an up to date list of my research publications and teaching a
 
 Key: C = Conference, J = Journal, T = Technical Report, O = Other
 
+[C19] Lobo V, Joshi N, Chao A, Poffenberger C, Williams S, Perera P, Phillips C, Gharahbaghian L. Impact of a one day free bedside ultrasound conference to medical students. Council of Residency Directors Annual Meeting, April 2015, Tuscan, Arizona.
+
+[C18] DiTullio A, Lipman GS, Sharp LJ, Christensen M, Philips C, et al. Paper Tape Prevents Blisters: Prevention Trial Assessing Paper Tape in Endurance Distances II (Pre-TAPED II). Oral Presentation at the Western Regional Society of Academic Emergency Medicine, March 27, 2015. Tucson, AZ.
+ 
+[C17] Christensen M, Lipman GS, Sharp LJ, Philips C, et al. Paper Tape Prevents Blisters: Prevention Trial Assessing Paper Tape in Endurance Distances II (Pre-TAPED II). Oral Presentation at the Wilderness Medical Society Winter Meeting, Feb 15th, 2015, Park City, UT.
+
 [J7] Grant S. Lipman, Kristin Fontes, Becky Higbee, Michael Shaheen, Nicholas C. Kanaan, Caleb Phillips, Dave Pomeranz, Patrick Cain, Carolyn Meyer, Sean Wentworth. Study Looking at End Expiratory Pressure for Altitude Illness Decrease (SLEEP AID): A Randomized Controlled Trial. Wilderness and Environmental Medicine. Volume 26. Issue 1. March 2015. ([download](http://www.wemjournal.org/article/S1080-6032%2814%2900310-X/abstract))
 
 [C16] Steven K. Dailey, Caleb Phillips, Joseph M. Radley, Michael T. Archdeacon. Achieving Anatomic Acetabular Fracture Reduction - When is the Best Time to Operate? American Academy of Orthopaedic Surgeons (AAOS) Annual Meeting. March, 2015.
@@ -138,6 +144,8 @@ University of Colorado. Department of Computer Science, Graduate Committee Senio
 University of Colorado. Department of Computer Science, Social Committee Chair, 2009-2011.
 
 ## Awards and Nominations
+
+National Renewable Energy Laboratory. President's Award. 2015.
 
 University of Colorado. Computer Science Department. Outstanding Research Award. 2012.
 
