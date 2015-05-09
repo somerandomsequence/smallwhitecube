@@ -9,6 +9,8 @@ Here you will find an up to date list of my research publications and teaching a
 
 Key: C = Conference, J = Journal, T = Technical Report, O = Other
 
+[J8] Grant S. Lipman, Nicholas C. Kanaan, Caleb Phillips, Dave Pomeranz, Patrick Cain, Kristin Fontes, Becky Higbee, Carolyn Meyer, Michael Shaheen, Sean Wentworth, and Diane Walsh. Study Looking at End Expiratory Pressure for Altitude Illness Decrease (SLEEP- AID). High Altitude Medicine & Biology. Volume 16, Number 2, 2015. ([download](/pdfs/ham2015.pdf))
+		
 [C19] Lobo V, Joshi N, Chao A, Poffenberger C, Williams S, Perera P, Phillips C, Gharahbaghian L. Impact of a one day free bedside ultrasound conference to medical students. Council of Residency Directors Annual Meeting, April 2015, Tuscan, Arizona.
 
 [C18] DiTullio A, Lipman GS, Sharp LJ, Christensen M, Philips C, et al. Paper Tape Prevents Blisters: Prevention Trial Assessing Paper Tape in Endurance Distances II (Pre-TAPED II). Oral Presentation at the Western Regional Society of Academic Emergency Medicine, March 27, 2015. Tucson, AZ.
