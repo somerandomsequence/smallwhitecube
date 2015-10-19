@@ -9,6 +9,8 @@ Here you will find an up to date list of my research publications and teaching a
 
 Key: C = Conference, J = Journal, T = Technical Report, O = Other
 
+[T10] Mohammad Alasmary, Landon Bedell, Tom Erickson, Joshua Ferge, Taylor Graham, Amir Kashpazha, Hannah Keller, Hui Soon Kim, David Levin, John Raesly, Forrest Tagg Ridler, Stephen Thoma. Projects in Geospatial Data Analysis: Spring 2015. Editor: Caleb Phillips. University of Colorado. Computer Science Technical Reports. Paper 1035. ([download](http://scholar.colorado.edu/csci_techreports/1035))
+
 [J8] Grant S. Lipman, Nicholas C. Kanaan, Caleb Phillips, Dave Pomeranz, Patrick Cain, Kristin Fontes, Becky Higbee, Carolyn Meyer, Michael Shaheen, Sean Wentworth, and Diane Walsh. Study Looking at End Expiratory Pressure for Altitude Illness Decrease (SLEEP- AID). High Altitude Medicine & Biology. Volume 16, Number 2, 2015. ([download](/pdfs/ham2015.pdf))
 		
 [C19] Lobo V, Joshi N, Chao A, Poffenberger C, Williams S, Perera P, Phillips C, Gharahbaghian L. Impact of a one day free bedside ultrasound conference to medical students. Council of Residency Directors Annual Meeting, April 2015, Tuscan, Arizona.
@@ -89,7 +91,7 @@ University of Colorado at Boulder, Tech. Report. CU-CS-1086-11. September, 2011.
 
 [C1] Caleb Phillips and [Suresh Singh](http://cs.pdx.edu/~singh). *Analysis of WLAN traffic in the Wild*. [IFIP Networking 2007](http://www.ifip-networking.com) (short paper). Altanta, GA. May 14 - 18, 2007. (22.5% main conference) ([download](/pdfs/papers/networking07.pdf)).
 
-[T1] Caleb Phillips and Russell Senior. *Unwire Portland Proof-of-Concept Network Testing*. UnwirePDX-Watch. May 23, 2007. ([download](http://unwirepdx-watch.org/files/report.pdf)).
+[T1] Caleb Phillips and Russell Senior. *Unwire Portland Proof-of-Concept Network Testing*. UnwirePDX-Watch. May 23, 2007. ([download](/pdfs/papers/unwirepdx.pdf)).
 
 ## Patents
 
@@ -121,7 +123,7 @@ National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://ww
 
 ## Teaching and Advising
 
-US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Summer, 2015. One intern: Kalvin Ogbuefi. Summer, 2014.
+US Department of Energy. Science Undergraduate Laboratory Internships (SULI) Mentor. One intern: Kalvin Ogbuefi. Summer, 2015.
 
 Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2015. [Website](http://gsa.smallwhitecube.com)
 
