@@ -11,22 +11,13 @@ Key: C = Conference, J = Journal, T = Technical Report, O = Other
 
 {% include papers.html %}
 
-
-## Teaching and Advising
+## Teaching
 
 Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2016. [Website](http://gsa.smallwhitecube.com)
 
-US Department of Energy. Science Undergraduate Laboratory Internships (SULI) Mentor. One intern: Kalvin Ogbuefi. Summer, 2015.
-
 Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2015. [Website](http://gsa.smallwhitecube.com)
 
-Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393) Mentor. University of Colorado, Boulder Food Rescue. Two interns: Sean Weise and Zach Doyle. 2012 - 2014.
-
 National Science Foundation (NSF) [Graduate Teaching](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5472) (GK-12) Fellow. University of Colorado, Boulder/Boulder Highschool. 2010 - 2012.
-
-INVST Commmunity Leadership Program. Supervised and mentored two interns: Helen Katich and Nora Leccese. 2012.
-
-Broadening Opportunity through Leadership and Diversity (BOLD), YOU'RE@CU Undergraduate research mentor. Spring, 2012.
 
 National Science Foundation (NSF) [Research Experiences for Undergraduates](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517&from=fund) (REU) Mentor/Advisor. Two Students: Mike Ton and Erik Bergal. University of Colorado, Boulder. Spring 2011 - 2012.
 
@@ -34,7 +25,24 @@ Introduction to Unix System Administration (CSCI 4113). Instructor. University o
 
 Introduction to Programming (CSCI 1300). Teaching Assistant. University of Colorado, Boulder. Spring, 2010.
 
-## Awards and Nominations
+## Advising
+
+[Hilary Egan](https://www.linkedin.com/in/hilary-egan-1a760647). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Spring, 2016.
+
+[Austin Arrington](https://www.linkedin.com/in/austin-arrington-a7305b3). State University of New York (SUNY) - College of Environmental Science and Forrestry. Master of Science Thesis, Steering Committee. 2016.
+
+[Kalvin Ogbuefi](https://www.linkedin.com/in/kalvinogbuefi) - US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Summer, 2015.
+
+Zach Doyle - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393). University of Colorado, Boulder Food Rescue. 2014.
+
+[Sean Weise](https://www.linkedin.com/in/wiesesean) - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393) Mentor. University of Colorado, Boulder Food Rescue. 2012.
+
+Helen Katich. INVST Commmunity Leadership Program. University of Colorado, Boulder Food Rescue. 2012.
+
+[Nora Leccese](http://www.hungercenter.org/fellow/nora-leccesse/). INVST Commmunity Leadership Program. University of Colorado, Bould
+er Food Rescue. 2012.
+
+## Awards
 
 National Renewable Energy Laboratory. President's Award. 2015.
 
@@ -52,7 +60,7 @@ Department of Computer Science. Outstanding Teaching Assistant. Spring, 2010.
 
 Department of Computer Science. Research and Community Development Award. 2009.
 
-## Grants and Research Fellowships
+## Grants and Fellowships
 
 National Science Foundation (NSF) Global Environment for Networking Innovation (GENI). Researcher/Network Engineer. University of Colorado, Boulder. GENI WiMax Project. 2010-2011.
 
@@ -82,10 +90,6 @@ Oregon in 2007.
 
 [CRAWDAD:pdx/vwave](http://www.crawdad.org/meta.php?name=pdx/vwave). Dataset of wireless LAN traffic around Portland, Oregon using a commercial sniffer VWave. 2007.
 
-## Patents
-
-US Provisional Patent Serial Number 61/743,703, “Wireless Coverage Mapping Using Geostatistics”
-
 ## Popular Press (Selected)
 
 How Many People Can the Plants in One City Feed? [FiveThirtyEight](http://fivethirtyeight.com/). Data Lab. December 16, 2014. By Anna Maria Barry-Jester. ([link](http://fivethirtyeight.com/datalab/how-many-people-can-the-plants-in-one-city-feed/))
@@ -114,9 +118,11 @@ Caleb Phillips. *Off The Wall: Climbing With Chaos*. Climbing Magazine. No. 282.
 *  Guy Cobb (Google)
 *  Jamie Curtis (Rurallink Wireless, Waikato, New Zealand)
 *  [Steven K Dailey](http://www.researchgate.net/profile/Steven_Dailey/publications) (University of Cincinnati School of Medicine) 
+*  [Ryan Elmore](https://www.linkedin.com/in/rtelmore) (University of Denver)
 *  Becky Higbee (Stanford School of Medicine)
 *  Rhonda Hoenigman (University of Colorado, Boulder)
 *  [Harold Gonzales](http://systems.cs.colorado.edu/~gonzales/) (Google)
+*  [Kenny Gruchalla](https://www.linkedin.com/in/kennygruchalla) (National Renewable Energy Laboratory)
 *  [Dirk Grunwald](http://systems.cs.colorado.edu/mediawiki/index.php/User:Grunwald) (University of Colorado, Boulder)
 *  [Nicholas Kanaan](http://healthcare.utah.edu/fad/mddetail.php?physicianID=u0844825) (University of Utah)
 *  [Grant Lipman](https://med.stanford.edu/profiles/grant-lipman) (Stanford)
