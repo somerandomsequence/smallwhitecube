@@ -11,7 +11,6 @@ There's some other stuff I'm responsible for on the Internets:
 *  [Boulder Food Rescue](http://boulderfoodrescue.org) - Sustainable just-in-time food rescue
 *  [Strange Beta](http://strangebeta.com) - Climbing route setting with computers
 *  [SWCURL](http://swcurl.com) - Yet Another URL Shortener
-*  [3748 Brewing](http://3748brewing.com/) - An imaginary brewery
 *  [Thesis Waldo](http://thesiswaldo.org) - Usage statistics for your thesis
 
 And, some other places you might find me:
