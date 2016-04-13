@@ -29,6 +29,8 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 [Hilary Egan](https://www.linkedin.com/in/hilary-egan-1a760647). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Spring, 2016.
 
+Marcus Schwarting. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016.
+
 [Austin Arrington](https://www.linkedin.com/in/austin-arrington-a7305b3). State University of New York (SUNY) - College of Environmental Science and Forrestry. Master of Science Thesis, Steering Committee. 2016.
 
 [Kalvin Ogbuefi](https://www.linkedin.com/in/kalvinogbuefi) - US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Summer, 2015.
@@ -91,6 +93,10 @@ Oregon in 2007.
 [CRAWDAD:pdx/vwave](http://www.crawdad.org/pdx/vwave). Dataset of wireless LAN traffic around Portland, Oregon using a commercial sniffer VWave. 2007.
 
 ## Popular Press (Selected)
+
+An Easy Way to Prevent Blisters? Try Tape. New York Times. Well. Physical Education. April 13, 2016. By Gretchen Reynolds. ([link](http://well.blogs.nytimes.com/2016/04/13/an-easy-way-to-prevent-blisters-try-paper-tape/))
+
+Boulder Food Rescue has growing appetite for slashing waste. Daily Camera. Boulder News. April 10, 2016. By Alex Burness. ([link](http://www.dailycamera.com/news/boulder/ci_29746290/boulder-food-rescue-has-growing-appetite-slashing-waste)
 
 How Many People Can the Plants in One City Feed? [FiveThirtyEight](http://fivethirtyeight.com/). Data Lab. December 16, 2014. By Anna Maria Barry-Jester. ([link](http://fivethirtyeight.com/datalab/how-many-people-can-the-plants-in-one-city-feed/))
 
