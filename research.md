@@ -29,7 +29,7 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 [Hilary Egan](https://www.linkedin.com/in/hilary-egan-1a760647). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Spring, 2016.
 
-Marcus Schwarting. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016.
+Marcus Schwarting. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016 and Fall, 2016.
 
 [Austin Arrington](https://www.linkedin.com/in/austin-arrington-a7305b3). State University of New York (SUNY) - College of Environmental Science and Forrestry. Master of Science Thesis, Steering Committee. 2016.
 
@@ -64,13 +64,19 @@ Department of Computer Science. Research and Community Development Award. 2009.
 
 ## Grants and Fellowships
 
+National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). Creation of an Adaptive Remaining Lifetime Prediction Model of Power Electronics. Researcher and Co-PI with Doug Devoto. 2017-2018.
+
+National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). Intersection Visibility to Enhance Safety, Mobility, and Energy. Researcher and Co-PI with Myungsoo Jun. 2017-2018.
+
 National Science Foundation (NSF) Global Environment for Networking Innovation (GENI). Researcher/Network Engineer. University of Colorado, Boulder. GENI WiMax Project. 2010-2011.
 
 National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5284) (EAPSI) PI/Fellow. University of Waikato, New Zealand. Summer (Winter), 2010.
 
 ## Academic Service Positions
 
-ACM MobiSys 2012 Ph.D. Forum Workshop Chair.
+HPCloudSys16, The First Workshop on the Science of High-Performance Cloud Systems (co-located with IEEE CloudCom'16 in Luxembourg). Program Committee Member. December, 2016.
+
+ACM MobiSys 2012 Ph.D. Forum Workshop Chair. June, 2012.
 
 University of Colorado. Department of Computer Science, Graduate Committee Senior Student Representative, 2010-2012.
 
@@ -93,6 +99,8 @@ Oregon in 2007.
 [CRAWDAD:pdx/vwave](http://www.crawdad.org/pdx/vwave). Dataset of wireless LAN traffic around Portland, Oregon using a commercial sniffer VWave. 2007.
 
 ## Popular Press (Selected)
+
+Open data moving frood from farm to fork. Engineering and Technology Magazine. April 18, 2016. By Rosemary Peters. ([link](http://eandt.theiet.org/magazine/2016/04/open-data-farming.cfm))
 
 An Easy Way to Prevent Blisters? Try Tape. New York Times. Well. Physical Education. April 13, 2016. By Gretchen Reynolds. ([link](http://well.blogs.nytimes.com/2016/04/13/an-easy-way-to-prevent-blisters-try-paper-tape/))
 
@@ -120,6 +128,7 @@ Caleb Phillips. *Off The Wall: Climbing With Chaos*. Climbing Magazine. No. 282.
 *  Sam Bartels (University of Waikato)
 *  [Kevin Bauer](http://systems.cs.colorado.edu/~bauerk/) (Lincoln Labs)
 *  [Lee Becker](http://leebecker.com/) (Hapara)
+*  [Bruce Bugbee](https://energysciences.nrel.gov/csc/staff/bruce_bugbee) (National Renewable Energy Laboratory)
 *  [Elizabeth Bradley](http://www.cs.colorado.edu/~lizb/) (University of Colorado, Boulder)
 *  Guy Cobb (Google)
 *  Jamie Curtis (Rurallink Wireless, Waikato, New Zealand)
@@ -132,6 +141,7 @@ Caleb Phillips. *Off The Wall: Climbing With Chaos*. Climbing Magazine. No. 282.
 *  [Dirk Grunwald](http://systems.cs.colorado.edu/mediawiki/index.php/User:Grunwald) (University of Colorado, Boulder)
 *  [Nicholas Kanaan](http://healthcare.utah.edu/fad/mddetail.php?physicianID=u0844825) (University of Utah)
 *  [Grant Lipman](https://med.stanford.edu/profiles/grant-lipman) (Stanford)
+*  [Viveta Lobo](https://med.stanford.edu/profiles/viveta-lobo) (Stanford)
 *  [Tony McGregor](http://www.cs.waikato.ac.nz/genquery.php?linklevel=4&linklist=cs&linkname=J_to_P&linktype=report&listby=Name&lwhere=unique_record_id=11&children=) (University of Waikato)
 *  [Scott Raynel](http://www.wand.net.nz/~smr26/) (University of Waikato)
 *  [Douglas Sicker](http://spot.colorado.edu/~sicker/index.html) (University of Colorado, Boulder)
