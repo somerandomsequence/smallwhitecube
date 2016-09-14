@@ -84,19 +84,23 @@ University of Colorado. Department of Computer Science, Social Committee Chair, 
 
 ## Published Datasets
 
-[CRAWDAD:cu/wimax](http://crawdad.cs.dartmouth.edu/cu/wimax). Detailed signal quality and performance measurements for University of Colorado GENI WiMax testbed. 2012.
+[U.S. PV-Suitable Rooftop Resources](https://doi.org/10.7799/1258436). This dataset contains zipcode resolution estimates of suitable area on buildings' rooftops for photovoltaic deployment.
 
-[CRAWDAD:cu/lte](http://crawdad.cs.dartmouth.edu/cu/lte). Dataset of detailed Verizon LTE measurements in Boulder, Colorado. 2012.
+[HPC Power Measurements](https://cscdata.nrel.gov/#/datasets/d332818f-ef57-4189-ba1d-beea291886eb). Complete power and performance metric data of the [NREL Peregrine system](https://hpc.nrel.gov/users/systems/peregrine) taken from two years of operational data in 2014 and 2015.
 
-[CRAWDAD:cu/wart](http://crawdad.cs.dartmouth.edu/cu/cu_wart). Measurements of outdoor urban wireless propagation using the University of Colorado Wide Area Radio Testbed. 2011. 
+[University of Colorado WiMax](http://crawdad.cs.dartmouth.edu/cu/wimax). Detailed signal quality and performance measurements for University of Colorado GENI WiMax testbed. 2012.
 
-[CRAWDAD:pdx/metrofi](http://www.cradad.org/pdx/metrofi). Dataset of coverage and performance-related
+[University of Colorado LTE](http://crawdad.cs.dartmouth.edu/cu/lte). Dataset of detailed Verizon LTE measurements in Boulder, Colorado. 2012.
+
+[University of Colorado Wide Area Radio Testbed](http://crawdad.cs.dartmouth.edu/cu/cu_wart). Measurements of outdoor urban wireless propagation using the University of Colorado Wide Area Radio Testbed. 2011. 
+
+[Portland Municipal Wireless](http://www.cradad.org/pdx/metrofi). Dataset of coverage and performance-related
 information of MetroFi, a 802.11x municipal wireless mesh network in Portland,
 Oregon in 2007.
 
-[CRAWDAD:cu/antenna](http://www.crawdad.org/cu/antenna). Dataset of signal strength collected from 2.4 GHz directional antenna. 2009.
+[University of Colorado Antenna Measurements](http://www.crawdad.org/cu/antenna). Dataset of signal strength collected from 2.4 GHz directional antenna. 2009.
 
-[CRAWDAD:pdx/vwave](http://www.crawdad.org/pdx/vwave). Dataset of wireless LAN traffic around Portland, Oregon using a commercial sniffer VWave. 2007.
+[Wireless Traffic in the Wilds of Portland, Oregon](http://www.crawdad.org/pdx/vwave). Dataset of wireless LAN traffic around Portland, Oregon using a commercial sniffer VWave. 2007.
 
 ## Popular Press (Selected)
 
