@@ -7,8 +7,6 @@ Here you will find an up to date list of my research publications and teaching a
 
 ## Academic Publications
 
-Key: C = Conference, J = Journal, T = Technical Report, O = Other
-
 {% include papers.html %}
 
 ## Teaching
@@ -84,9 +82,11 @@ University of Colorado. Department of Computer Science, Social Committee Chair, 
 
 ## Published Datasets
 
-[U.S. PV-Suitable Rooftop Resources](https://doi.org/10.7799/1258436). This dataset contains zipcode resolution estimates of suitable area on buildings' rooftops for photovoltaic deployment.
+[U.S. PV-Suitable Rooftop Resources](https://doi.org/10.7799/1258436). This dataset contains zipcode resolution estimates of suitable area on buildings' rooftops for photovoltaic deployment. 2016.
 
-[HPC Power Measurements](https://cscdata.nrel.gov/#/datasets/d332818f-ef57-4189-ba1d-beea291886eb). Complete power and performance metric data of the [NREL Peregrine system](https://hpc.nrel.gov/users/systems/peregrine) taken from two years of operational data in 2014 and 2015.
+[HPC Power Measurements](https://cscdata.nrel.gov/#/datasets/d332818f-ef57-4189-ba1d-beea291886eb). Complete power and performance metric data of the [NREL Peregrine system](https://hpc.nrel.gov/users/systems/peregrine) taken from two years of operational data. 2016.
+
+[Combined Wind/Wave Hurricane Model](https://catalog.data.gov/dataset/combined-wind-wave-hurricane-model). Time-aligned predictions of full field atmospheric data (WRF), ocean current data (HYCOM), and wave data (UMWM) for two major storms: Hurricane Ike and Hurricane Sandy. 2016.
 
 [University of Colorado WiMax](http://crawdad.cs.dartmouth.edu/cu/wimax). Detailed signal quality and performance measurements for University of Colorado GENI WiMax testbed. 2012.
 
