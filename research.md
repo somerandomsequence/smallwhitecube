@@ -27,7 +27,7 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 [Hilary Egan](https://www.linkedin.com/in/hilary-egan-1a760647). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Spring, 2016.
 
-Marcus Schwarting. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016 and Fall, 2016.
+[Marcus Schwarting](https://www.linkedin.com/in/marcus-s-a7779486). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016 and Fall, 2016.
 
 [Austin Arrington](https://www.linkedin.com/in/austin-arrington-a7305b3). State University of New York (SUNY) - College of Environmental Science and Forrestry. Master of Science Thesis, Steering Committee. 2016.
 
@@ -37,7 +37,7 @@ Zach Doyle - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](h
 
 [Sean Weise](https://www.linkedin.com/in/wiesesean) - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393) Mentor. University of Colorado, Boulder Food Rescue. 2012.
 
-Helen Katich. INVST Commmunity Leadership Program. University of Colorado, Boulder Food Rescue. 2012.
+[Helen Katich](https://www.linkedin.com/in/helen-katich-14a99445). INVST Commmunity Leadership Program. University of Colorado, Boulder Food Rescue. 2012.
 
 [Nora Leccese](http://www.hungercenter.org/fellow/nora-leccesse/). INVST Commmunity Leadership Program. University of Colorado, Bould
 er Food Rescue. 2012.
@@ -62,6 +62,10 @@ Department of Computer Science. Research and Community Development Award. 2009.
 
 ## Grants and Fellowships
 
+National Renewable Energy Laboratory (NREL) Model and Tool Investment Prorgam (MTI). Wind Integration National Dataset (WIND) Toolkit Maintenance. Researcher and Co-PI with Caroline Draxl. 2017.
+
+National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). High-Throughput Experimental Materials Science Virtual Laboratory. Researcher and Co-PI with Andriy Zakutayev. 2017.
+
 National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). Creation of an Adaptive Remaining Lifetime Prediction Model of Power Electronics. Researcher and Co-PI with Doug Devoto. 2017-2018.
 
 National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). Intersection Visibility to Enhance Safety, Mobility, and Energy. Researcher and Co-PI with Myungsoo Jun. 2017-2018.
@@ -72,7 +76,7 @@ National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://ww
 
 ## Academic Service Positions
 
-HPCloudSys16, The First Workshop on the Science of High-Performance Cloud Systems (co-located with IEEE CloudCom'16 in Luxembourg). Program Committee Member. December, 2016.
+Energy Efficient High Performance Computing Working Group Workshop at Supercomputing 2016. November 13, 2016. Oraganizing Comittee. [Program](https://eehpcwg.llnl.gov/pages/conf_sc16Program).
 
 ACM MobiSys 2012 Ph.D. Forum Workshop Chair. June, 2012.
 
@@ -104,7 +108,13 @@ Oregon in 2007.
 
 ## Popular Press (Selected)
 
-Open data moving frood from farm to fork. Engineering and Technology Magazine. April 18, 2016. By Rosemary Peters. ([link](http://eandt.theiet.org/magazine/2016/04/open-data-farming.cfm))
+Garbage Can Teach Us a Lot About Food Waste. Smithsonian Magazine. August 26, 2016. By Whitney Pipkin. ([link](smithsonianmag.com/science-nature/garbage-can-teach-us-lot-about-food-waste-180960254/?no-ist))
+
+The Materials Genome Initiative: The First Five Years. The Whithouse Blog. (w/r/t virtual, high-throughput experimentation facility). August 2, 2016. ([link](https://www.whitehouse.gov/blog/2016/08/01/materials-genome-initiative-first-five-years)).
+
+Open data moving food from farm to fork. Engineering and Technology Magazine. April 18, 2016. By Rosemary Peters. ([link](http://eandt.theiet.org/magazine/2016/04/open-data-farming.cfm))
+
+Rooftop solar panels could provide nearly half of US Power. April 14, 2016. By Prachi Patel. ([link](https://www.theguardian.com/environment/2016/apr/14/rooftop-solar-panels-could-provide-nearly-half-us-power))
 
 An Easy Way to Prevent Blisters? Try Tape. New York Times. Well. Physical Education. April 13, 2016. By Gretchen Reynolds. ([link](http://well.blogs.nytimes.com/2016/04/13/an-easy-way-to-prevent-blisters-try-paper-tape/))
 
@@ -124,9 +134,9 @@ Multi-Discipline Research Makes a Big Impact. February 2nd, 2012. *University of
 
 CU-Boulder researchers find food rescue can feed the hungry. *Boulder Daily Camera*. October 7th, 2011. By staff writer Heath Urie. ([link](http://www.dailycamera.com/boulder/ci_19064233))
 
-Caleb Phillips. *Off The Wall: Climbing With Chaos*. Climbing Magazine. No. 282. October, 2009.
+*Off The Wall: Climbing With Chaos*. By Caleb Phillips. Climbing Magazine. No. 282. October, 2009.
 
-## Research Collaborators
+## Research Collaborators (Selected)
 
 *  [Eric Anderson](http://systems.cs.colorado.edu/~andersoe/) (Carnegie Melon University)
 *  Sam Bartels (University of Waikato)
@@ -151,4 +161,5 @@ Caleb Phillips. *Off The Wall: Climbing With Chaos*. Climbing Magazine. No. 282.
 *  [Douglas Sicker](http://spot.colorado.edu/~sicker/index.html) (University of Colorado, Boulder)
 *  Russell Senior (Personal Telco Project)
 *  [Suresh Singh](http://cs.pdx.edu/~singh) (Portland State University)
+*  [Paul Veers](https://www.researchgate.net/profile/Paul_Veers) (National Renewable Energy Laboratory)
 *  Gary Yee (Penguin Computing)
