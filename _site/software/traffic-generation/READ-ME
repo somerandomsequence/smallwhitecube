@@ -1,0 +1,226 @@
+This full README is only for folks who are interested in using
+their own data. If you just want to use canned data I've prepared
+for you, take a look at README.quick instead.
+
+ABOUT:
+
+  This software implements some traffic simulation and classification work
+  by Caleb Phillips <cphillips@smallwhitecube.com>. It is described
+  in this paper:
+
+  @INPROCEEDINGS{PhillipsWiOpt09,
+    author = {Caleb Phillips and Suresh Singh and Douglas Sicker and Dirk Grunwald},
+    title = {Techniques for Simulation of Realistic Infrastructure Wireless Network
+	  Traffic},
+    booktitle = {7th International Symposium on Modeling and Optimization in Mobile,
+  	  Ad Hoc, and Wireless Networks (WiOpt)},
+    year = {2009},
+    month = {June},
+    owner = {cphillips},
+    timestamp = {2009.04.24}
+  }
+
+  Although this version is ready to use, its the first real release of
+  this software and so it might be a little rough around the edges.
+  Take care when using it, and don't sue me if it eats your first-born.
+  If you use it in some research, please cite my work above. If you
+  use it to make millions of dollars, you probably should buy me a beer
+  sometime.
+
+  Version: 2009.06.04 (0.01)
+  License: BSD/MIT/Academic/Beerware/or-equivalent
+
+  The following sections give step by step instructions for how everything
+  works in terms of processing data to prepare it for simulation...
+
+PRE-REQUISITES:
+
+  * ruby - I'm using:
+
+    cphillips@shannon:~$ ruby -v
+    ruby 1.8.6 (2007-09-24 patchlevel 111) [i486-linux]
+
+  * wireshark & tshark - I'm using:
+
+    cphillips@shannon:~$ tshark -v
+    TShark 0.99.8
+
+    Copyright 1998-2008 Gerald Combs <gerald@wireshark.org> and contributors.
+    This is free software; see the source for copying conditions. There is NO
+    warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+    Compiled with GLib 2.14.1, with libpcap 0.9.8, with libz 1.2.3.3, with libpcre
+    7.2, without SMI, without ADNS, without Lua, with GnuTLS 1.6.3, with Gcrypt
+    1.2.4, with MIT Kerberos.
+
+  * rake - I'm using:
+
+    cphillips@shannon:~$ rake -V
+    rake, version 0.8.1
+
+  On ubuntu (or any debian derivative), you might try something like:
+
+    sudo apt-get install ruby irb ruby-doc rake tshark
+
+  * qualnet 4.5
+
+  * ghmm
+
+  The similarity clustering stuff requires the GHMM library:
+
+    wget http://superb-east.dl.sourceforge.net/sourceforge/ghmm/ghmm-0.9-rc1.tar.gz
+    tar xvzf ghmm-0.9-rc1.tar.gz
+    cd ghmm-0.9-rc1
+    ./configure --prefix=/some/where && make && make install
+    cp ghmm/randvar.h ghmm/matrix.h /some/where/include
+
+  Notice the last line which is a little odd, but is crucial. Next, edit "makefile" 
+  and put the GHMM path/prefix in there.
+
+  Then, do a "make" in the main software directory to compile the GHMM-based
+  similarity code.
+
+PRE-PRE-PRE-PROCESSING:
+
+  For each trace...
+
+  (1) Figure out which access point (BSSID) you are going to consider:
+
+        scripts/pcap_bssid_histogram.sh some/where/unfiltered.cap
+ 
+      Should make this a straightforward choice...
+
+  (2) Make a directory like YYYYMMDD_description for each trace. i.e., 20061106_osdi_s4.
+      Inside it, there should be a file called trace.cap which is BSSID-filtered. You
+      can accomplish this filtering with the pcap_bssid_filter.sh script. i.e.,
+
+        mkdir 20061106_osdi_s4
+        scripts/pcap_bssid_filter.sh some/where/unfiltered.cap 20061106_osdi_s4/trace.cap 00:17:5a:ba:53:54
+
+  Okay, now you have some dirs, each containing a trace.cap which is BSSID-filtered. Right?
+
+PRE-PRE-PROCESSING:
+
+  (3) Generate lists of "good clients" (i.e. real folks who aren't just noise, probably).
+      Takes a little bit:
+
+        rake good_clients
+
+  (4) Generate client models (this is used for some of the classifiers. in this context
+      a client model is just a bucketed activity trace)
+
+        rake client_models  
+  
+      This will result in a directory client_model_1.0 in each trace subdir.
+
+  (5) Generate user traces, indices, and aggregates:
+      
+        rake user_traces
+
+      This results in a user_traces dir in each subdir
+
+        rake user_trace_indices
+
+      This creates user_trace_index.txt in each subdir. 
+
+        rake user_trace_aggregates
+
+      This creates up.txt and down.txt in each subdir, which concats all the
+      user traces in that subdir as well as up.txt and down.txt in the current
+      dir which concats all users in all traces.
+
+  (6) Calculate the local (i.e. aren't comparative among all traces) classifiers:
+
+        rake classifiers
+
+  Now, if you want, you can tar up each trace directory and share them with your friends.
+
+PRE-PROCESSING:
+
+  These steps require that you have all your data dirs in place. Whether you generated them
+  yourself with the steps above, or just downloaded them from somewhere, shouldn't matter.
+  Here we're going to calculate the global classifiers, do some book-keeping, and then we'll
+  be good to go.
+
+  Note that if you're just using a subset of the canned data-dirs provided by me,
+  than the combined_index.dist.txt already has this done for you, so just copy it to
+  combined_index.txt and jump ahead to configuration & simulation.
+
+  (1) Do this:
+
+        rake similarity_prep
+
+      If you have a computer-cluster you can submit jobs to (i.e. something like PBS), 
+      this can be parallelized like so, where N is the number of jobs you want to split it into:
+
+        ruby scripts/sim_splitter.rb N 1 $PWD
+        bash scripts/pbs/run_splits.sh
+
+        watch -d 'qstat | grep " R "'
+        ...wait until all the jobs finish, then...        
+
+        ruby scripts/sim_splitter.rb N 2 $PWD
+        bash scripts/run_splits.sh
+
+      If you don't have a cluster (bummer!) then you can run it serially on this box, like so:
+
+        ruby scripts/sim_splitter.rb 1 1 $PWD
+        bash 0_split.sh
+        ruby scripts/sim_splitter.rb 1 2 $PWD
+        bash 0_split.sh
+
+  (2) Finish it up and do the clustering:
+
+        rake similarity_fin
+
+  (3) Make the combined index:
+
+        rake full_combined_index
+
+  (4) And, if you're a neat-freak, this will delete all the transitory files created
+      by the above process, but it isn't necessary...
+
+        rake final_cleanup
+
+CONFIGURATION & SIMULATION:
+
+  Take a look at config/qconfig-example.yaml and use it as a template to create
+  your own configuration file. Then generating a qualnet TRAFFIC application configuration
+  is as easy as:
+
+    ruby scripts/qualnet/make_config.rb your-config.yaml > my-scenario.app
+
+  All the paths are relative to the current directory if that's no good, you can
+  be more prescriptive:
+
+    ruby scripts/qualnet/make_config.rb your-config.yaml combined_index.txt $PWD > /some/where/else/my-scenario.app
+
+  That's really about it. You'll want to this several times to generate different
+  stochastic application plans and then use those in your simulations with a set of
+  different random seeds - i.e., use a repeated-measures approach until your metric
+  of interest's confidence window is acceptable.
+
+OBSOLETE:
+
+  Formerly, I did global similarity clustering using Matlab instead of GHMM. It was MUCH MUCH slower.
+  But, it probably still works:
+
+  To do the matlab-based similarity clustering stuff, you'll need my similarity code. Install
+  it like this:
+
+    cd scripts/matlab
+    wget http://www.cs.pdx.edu/~singh/software/similarity-0.1.tar.gz
+    tar xvzf similarity-0.1.tar.gz
+    cd similarity-0.1
+    unzip HMM.zip
+    patch -p0 < hmm_return_p.patch
+    cd ../..
+
+  Calculate the global classifiers:
+
+    rake matlab_similarity_cluster
+
+  This will take a very very long time. Like, days. It will also
+  create checkpoint "matlab.mat" files every once in a while. If something goes
+  terribly wrong, you should be able to uncomment a load() line from scripts/matlab/calculate_sim.m
+  and resume without too much lost (caveat emptor).

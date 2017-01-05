@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js"></script>
+    <script src="http://chancejs.com/chance.min.js"></script>
+</head>
+<body>
+    <div id="viz"></div>
+    <script type="text/javascript">
+      var beets = ['Aaron','Raven','Pete','Sam','Ian','Caleb','Becky','Lindsey','Eve','Kelly','Mere','Christina'];
+      var idx = Math.floor(Date.now()/(7*24*3600*1000));
+      var today = new Date();
+      var chance = new Chance(8);
+      beets = chance.shuffle(beets);
+      var lineup = [["Week","Facilitator","Notetaker","Timekeeper"]];
+      for(i = 0; i < 3; i++){
+        today = new Date();
+        today.setDate(today.getDate() + 7*i - today.getDay());
+        var thisweek = [today.toString(),beets[(idx+i) % beets.length],
+                        beets[(idx+i+1) % beets.length],
+                        beets[(idx+i+2) % beets.length]];
+        lineup.push(thisweek);
+      }
+      d3.select("#viz")
+        .append("table")
+        .style("border-collapse", "collapse")
+        .style("border", "2px black solid")
+        .selectAll("tr")
+        .data(lineup)
+        .enter().append("tr")
+        .selectAll("td")
+        .data(function(d){ return d; })
+        .enter()
+        .append("td")
+        .style("border", "1px black solid")
+        .style("padding", "10px")
+        .on("mouseover", function(){d3.select(this).style("background-color", "aliceblue")})
+        .on("mouseout", function(){d3.select(this).style("background-color", "white")})
+        .text(function(d){ return d; })
+        .style("font-size", "12px");
+    </script>
+</body>
+</html>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small White Cube</title>
+    <description>The personal website of Caleb Phillips.
+</description>
+    <link>http://smallwhitecube.com.com/</link>
+    <atom:link href="http://smallwhitecube.com.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 05 Jan 2017 17:09:22 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2017 17:09:22 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>12 Years of Email</title>
+        <description>&lt;h1 id=&quot;years-of-email&quot;&gt;12 Years of Email&lt;/h1&gt;
+
+&lt;p&gt;A few years ago when I was working in a nonprofit co-working/maker space in California called the &lt;a href=&quot;http://hackerdojo.com&quot;&gt;Hacker Dojo&lt;/a&gt; I had a brief chat with another person working there. He was an Australian who had recently moved to the Bay Area. We exchanged the usual, vapid, Bay Area pleasantries: what start-up are you working on? etc. When he asked what I did, I told him I was actually a gainfully underemployed adjunct professor, doing a bit of research and consulting here and there (in hindsight, a handy euphemism for post-Ph.D. burnout and recovery). His response was: “oh, you must send a lot of emails”. I shrugged, “Yeah, I guess so”.&lt;/p&gt;
+
+&lt;p&gt;Since then, I’ve wondered a bit about my email habit and whether it’s changed appreciably over the years. For instance: is it true that my job is (or was) largely about sending emails? If so, how do I feel about that? Are the quantity of emails I send or receive positively or negatively related to my productivity?&lt;/p&gt;
+
+&lt;p&gt;One day a few months ago, I started poking around my email data. Since I switched to Google for email in 2011, I was able to easily request and download the entire 5.6 GB of email data that Google has been holding on to for me. I augmented that data with an additional 3.5 GB of data that I had kept from when I ran my own email server and hosted my email (yes, I’m that kind of nerd). After a bit of work to synthesize the data, I have nearly 9 GB of emails which constitute the non-spam portion of all my email communications since sometime in early 2004.&lt;/p&gt;
+
+&lt;p&gt;I have to admit, as I started analyzing the data, I felt a bit strange about it. It was a pleasant project because it is a fairly large and interesting data set that also has personal meaning. Meanwhile, it also felt very odd to dissect my own communications, even in the aggregate. I was reminded of the simultanous excitement and repulsion of dissecting &lt;a href=&quot;https://en.wikipedia.org/wiki/Pellet_(ornithology)&quot;&gt;owl pellets&lt;/a&gt; in an early science class. Mostly, it just felt frivolous. On the other hand, I was emboldened by the amusing posts of a fellow CS professor who summarizes &lt;a href=&quot;http://www.cs.unm.edu/~aaron/blog/archives/2014/12/2014_a_year_in.htm&quot;&gt;his year in numbers&lt;/a&gt;. And, ultimately, I decided to embrace the weirdness and allow myself a strange project. Doing so &lt;em&gt;has&lt;/em&gt; taught me something about my own habits and presents an interesting perspective on my last 12 years. I’m glad to have done it and thankful that the Google data overlords still allow me to download my own data (certainly not the case for most companies). So here it is:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/email/all.jpg&quot; alt=&quot;All email since 2004&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This first plot shows the number of emails sent and received per week, excluding spam, since 2004. Amidst spikes and gaps in the timeseries, there is a substantial increase in email sent and received in the middle of 2006. 2006 was the year after I got my undergraduate degree. That year I started doing research in a laboratory at &lt;a href=&quot;http://pdx.edu&quot;&gt;PSU&lt;/a&gt;, did work for several organizations as a contractor or employee, and applied for graduate school. Also, while I had been involved since sometime in 2005, in 2006 I did a lot more work as a volunteer for the &lt;a href=&quot;http://personaltelco.net&quot;&gt;Personal Telco Project&lt;/a&gt;, which both informed my later involvement in nonprofits and motivated much of the research in wireless networks that I would do in the coming years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/email/events.jpg&quot; alt=&quot;Life Events v.s. Email&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second plot focuses on the period of time since 2010 and tries to call out some main effects. In the Fall of 2010, &lt;em&gt;A&lt;/em&gt;, is when I returned to the US after four months in New Zealand. The gap at &lt;em&gt;B&lt;/em&gt; is the three weeks that I was in Guatemala, visiting Becky and traveling around Central America. The increase after &lt;em&gt;B&lt;/em&gt; is largely email to/from Becky when she and I were reuinited in Colorado. The huge spike at &lt;em&gt;C&lt;/em&gt; is the Summer of 2012, when I was most actively managing &lt;a href=&quot;http://boulderfoodrescue.org&quot;&gt;Boulder Food Rescue&lt;/a&gt;, living in a hammock, and riding my bike all the time. The ramp leading up to it is the period of activity during the first year while we were starting that nonprofit (also, a period of time where I was teaching and finishing my thesis). The gap at &lt;em&gt;D&lt;/em&gt;, and the massive decrease that follows, is the period of time when I was moving to California and bike touring across Colorado, Utah, and Arizona. The small spike at &lt;em&gt;E&lt;/em&gt; is when &lt;a href=&quot;http://fallingfruit.org&quot;&gt;Falling Fruit&lt;/a&gt; started to get a lot of press. The gap at &lt;em&gt;F&lt;/em&gt; is the weeks I was living in the high Himalaya and doing research. The spike at &lt;em&gt;G&lt;/em&gt; is May 2014, when I was working on the &lt;a href=&quot;https://www.barnraiser.us/projects/fallingfruit-org-mobilize-the-urban-harvest&quot;&gt;crowdfunding campaign&lt;/a&gt; for Falling Fruit’s mobile application. Finally, the gap at &lt;em&gt;H&lt;/em&gt; is the weeks I was bike touring with Nora and Sienna from San Francisco to the San Juans in Washington. The composition of the communication has also changed quite a bit with time. I made a &lt;a href=&quot;/folks2.html&quot;&gt;simple animated treemap&lt;/a&gt; to visualize the change in senders over time. My relationships, major collaborations, and a number of life events are also visible through that view of the data.&lt;/p&gt;
+
+&lt;p&gt;Since the beginning of 2015, there seems to be a decreasing trend, particularly in sent mail, which I assume is because my email at work is no longer included here. To understand how the total volume of email I’ve sent and recevied has changed over time, the following four plots provide daily sums (which are quite noisy) and a polynomial fit line, and monthly sums, with a linear fit line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/email/recv_day.jpg&quot; alt=&quot;Received by Day&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/email/sent_day.jpg&quot; alt=&quot;Sent by Day&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/email/recv_month.jpg&quot; alt=&quot;Received by Month&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/email/sent_month.jpg&quot; alt=&quot;Sent by Month&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using this view, it is clear to see that there is an increase in aggregate mail over time. In 2004,
+I was sending and receiving between 2 and 3 emails per day. By 2007, I was receiving 22 emails per day
+on average and sending 11. In 2012, the peak of my email activity in the last 12 years, I was receivng
+58 emails per day on average and sending 20. This year, so far, I’ve received on average 48 emails per day
+and sent 10. The following table summarizes the annual statistics.&lt;/p&gt;
+
+&lt;table class=&quot;gridtable&quot;&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Year&lt;/th&gt;
+            &lt;th&gt;Received&lt;/th&gt;
+            &lt;th&gt;Sent&lt;/th&gt;
+            &lt;th&gt;Average Received per Day&lt;/th&gt;
+            &lt;th&gt;Average Sent per Day&lt;/th&gt;
+            &lt;th&gt;Percent Change (Received)&lt;/th&gt;
+            &lt;th&gt;Percent Change (Sent)&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2004&lt;/td&gt;
+            &lt;td&gt;949&lt;/td&gt;
+            &lt;td&gt;1057&lt;/td&gt;
+            &lt;td&gt;2.600000&lt;/td&gt;
+            &lt;td&gt;2.895890&lt;/td&gt;
+            &lt;td&gt;NA&lt;/td&gt;
+            &lt;td&gt;NA&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2005&lt;/td&gt;
+            &lt;td&gt;2646&lt;/td&gt;
+            &lt;td&gt;1527&lt;/td&gt;
+            &lt;td&gt;7.249315&lt;/td&gt;
+            &lt;td&gt;4.183562&lt;/td&gt;
+            &lt;td&gt;178.819810&lt;/td&gt;
+            &lt;td&gt;44.46547&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2006&lt;/td&gt;
+            &lt;td&gt;3802&lt;/td&gt;
+            &lt;td&gt;2772&lt;/td&gt;
+            &lt;td&gt;10.416438&lt;/td&gt;
+            &lt;td&gt;7.594521&lt;/td&gt;
+            &lt;td&gt;43.688587&lt;/td&gt;
+            &lt;td&gt;81.53242&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2007&lt;/td&gt;
+            &lt;td&gt;8032&lt;/td&gt;
+            &lt;td&gt;4172&lt;/td&gt;
+            &lt;td&gt;22.005479&lt;/td&gt;
+            &lt;td&gt;11.430137&lt;/td&gt;
+            &lt;td&gt;111.257233&lt;/td&gt;
+            &lt;td&gt;50.50505&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2008&lt;/td&gt;
+            &lt;td&gt;5472&lt;/td&gt;
+            &lt;td&gt;2654&lt;/td&gt;
+            &lt;td&gt;14.991781&lt;/td&gt;
+            &lt;td&gt;7.271233&lt;/td&gt;
+            &lt;td&gt;-31.872510&lt;/td&gt;
+            &lt;td&gt;-36.38543&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2009&lt;/td&gt;
+            &lt;td&gt;3452&lt;/td&gt;
+            &lt;td&gt;2044&lt;/td&gt;
+            &lt;td&gt;9.457534&lt;/td&gt;
+            &lt;td&gt;5.600000&lt;/td&gt;
+            &lt;td&gt;-36.915205&lt;/td&gt;
+            &lt;td&gt;-22.98417&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2010&lt;/td&gt;
+            &lt;td&gt;9851&lt;/td&gt;
+            &lt;td&gt;2899&lt;/td&gt;
+            &lt;td&gt;26.989041&lt;/td&gt;
+            &lt;td&gt;7.942466&lt;/td&gt;
+            &lt;td&gt;185.370800&lt;/td&gt;
+            &lt;td&gt;41.82975&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2011&lt;/td&gt;
+            &lt;td&gt;10231&lt;/td&gt;
+            &lt;td&gt;4672&lt;/td&gt;
+            &lt;td&gt;28.030137&lt;/td&gt;
+            &lt;td&gt;12.800000&lt;/td&gt;
+            &lt;td&gt;3.857476&lt;/td&gt;
+            &lt;td&gt;61.15902&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2012&lt;/td&gt;
+            &lt;td&gt;21260&lt;/td&gt;
+            &lt;td&gt;7177&lt;/td&gt;
+            &lt;td&gt;58.246575&lt;/td&gt;
+            &lt;td&gt;19.663014&lt;/td&gt;
+            &lt;td&gt;107.799824&lt;/td&gt;
+            &lt;td&gt;53.61729&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2013&lt;/td&gt;
+            &lt;td&gt;7192&lt;/td&gt;
+            &lt;td&gt;4821&lt;/td&gt;
+            &lt;td&gt;19.704110&lt;/td&gt;
+            &lt;td&gt;13.208219&lt;/td&gt;
+            &lt;td&gt;-66.171214&lt;/td&gt;
+            &lt;td&gt;-32.82709&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2014&lt;/td&gt;
+            &lt;td&gt;11882&lt;/td&gt;
+            &lt;td&gt;6823&lt;/td&gt;
+            &lt;td&gt;32.553425&lt;/td&gt;
+            &lt;td&gt;18.693151&lt;/td&gt;
+            &lt;td&gt;65.211346&lt;/td&gt;
+            &lt;td&gt;41.52665&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2015&lt;/td&gt;
+            &lt;td&gt;17688&lt;/td&gt;
+            &lt;td&gt;3791&lt;/td&gt;
+            &lt;td&gt;48.460274&lt;/td&gt;
+            &lt;td&gt;10.386301&lt;/td&gt;
+            &lt;td&gt;48.863828&lt;/td&gt;
+            &lt;td&gt;-44.43793&lt;/td&gt;
+        &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, do I send a lot of emails? Undeniably, yes, but it’s relative. According to a bit of research available online &lt;a href=&quot;http://www.radicati.com/wp/wp-content/uploads/2013/04/Email-Statistics-Report-2013-2017-Executive-Summary.pdf&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;http://www.radicati.com/wp/wp-content/uploads/2011/05/Email-Statistics-Report-2011-2015-Executive-Summary.pdf&quot;&gt;here&lt;/a&gt;, the number of business related emails is growing worldwide at a rate of about 7-8%, while non-business emails are staying steady or decreasing by as much as 3-4% per year. The claim seems to be that the reduction in personal email use corresponds to an increase in other forms of communication (text messages, online social networks, etc.). This seems like a reasonable explanation to me. In a business context, the typical person receives 58 (non spam) emails per day and sends 33.&lt;/p&gt;
+
+&lt;p&gt;In 2012, Fortune magazine &lt;a href=&quot;http://fortune.com/2012/10/08/stop-checking-your-email-now/&quot;&gt;editorialized that email is a plague on business productivity&lt;/a&gt;. While I don’t generally consume my analysis from Fortune magazine, I do think this article well articulates the common perception that email is a productivity sink. In analyzing my own email activity, what I’ve discovered is that while that may be the case for some fraction of my email, when taken in the aggregate, the spikes in my email correlate with periods of (professional and social) activity that I’m generally happy about. Email has been a primary function of my professional and social life for some time. Maybe it’s because of my awkward position as a &lt;a href=&quot;http://www.nytimes.com/2015/02/05/opinion/wait-what-im-a-millennial.html&quot;&gt;boundary milennial&lt;/a&gt;, or my profession. Nevertheless, I’m not sure I regret that time spent, particularly the positive email-facilitated process of organizing people (e.g., BFR’s 150+ active volunteers), collaborating on projects (e.g., the spikes of communication with research collaborators, or memberships in email lists for open source software projects) and maintaining relationships, sometimes at distance (e.g., increased email activity with my partner when we are apart). I’m not sure there is another form of communication that would so easily enable these things. I guess I’m okay with email. Probably I even like it.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2015/10/18/owl-pellets.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2015/10/18/owl-pellets.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Future of Food and Technology</title>
+        <description>&lt;h1 id=&quot;the-future-of-food--technology&quot;&gt;The Future of Food &amp;amp; Technology&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Originally appeared on &lt;a href=&quot;https://medium.com/food-day-2014-the-future-of-food/the-future-of-food-technology-966d927e98ad&quot;&gt;medium.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What does the future of Food &amp;amp; Technology look like? Where is innovation happening? And what conversations are we not having that we should be?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To me, the future of food means feeding more people —- about 9 billion of them by 2050, and most of them in cities. It means coping with the effects of climate change, particularly shifting agricultural regions. Areas that were formerly rain-fed may no longer be, while arid regions may be getting new rain [1,2]. As a nation, we produce an amazing amount of food now. In large part this output is due to technology—-we’re riding high on the technological wins of the green agricultural movement: synthetic fertilizers, pesticides, and modern irrigation. Never before have we been able to produce so much food with so little labor, and so cheaply. The labor we do use is largely mechanized, making use of unbelievable custom, industrial equipment which automates many common agricultural tasks. Yet, even with all of this, there are problems.&lt;/p&gt;
+
+&lt;p&gt;While our food system is efficient with respect to labor, it is wasteful with respect to other resources. We use water and fuel heavily, we fail to rebuild the tilth of the soil, and we throw away nearly half of the food we produce [3,4,5]. It is clear this system will not continue to scale.&lt;/p&gt;
+
+&lt;p&gt;It may be that this time technology isn’t the solution at all. And, if we’re going to suppose that technology can be part of the solution there needs to be some substantial care with how it is applied. As we know now, there can be long term effects to the broad application of not well understood technologies. Consumer technologies can make headway in terms of education and mobilization, but larger structural changes are needed to ensure our food system can scale and find new efficiencies while mitigating negative externalities.&lt;/p&gt;
+
+&lt;p&gt;I believe, as do many others, that to create a reasonable future for our food system we need to do the following. We must reduce our consumption and treat our food and the resources used to produce it with more respect. We need to use less water, compost more and recreate tilth in our soil. We need to produce food as near to its point of consumption as possible, and stop allowing half of our food to rot in landfills and fields.&lt;/p&gt;
+
+&lt;p&gt;While we’re doing that, we can invest in renewable sources of energy. We can build a wealth of research around sustainable farming technologies and efficient irrigation systems. And finally, create a political and economic system that favors the reintroduction of labor into our agricultural system.&lt;/p&gt;
+
+&lt;p&gt;Maybe there’s no flashy technology to save the day—-just hard work and simple respect for our planet and its resources. If we can manage that, we can feed more people better food, and the future will be bountiful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[1] Food Security: The Challenge of Feeding 9 Billion People H. Charles J. Godfray, John R. Beddington, Ian R. Crute, Lawrence Haddad, David Lawrence, James F. Muir, Jules Pretty, Sherman Robinson, Sandy M. Thomas, and Camilla Toulmin. Science 12 February 2010: 327 (5967), 812–818.Published online 28 January 2010&lt;/p&gt;
+
+&lt;p&gt;[2] The 9 Billion People Question. The Economist. Feb 24th 2011. http://www.economist.com/node/18200618&lt;/p&gt;
+
+&lt;p&gt;[3] Energy Use in the U. S. Food System. John S. Steinhart and Carol E. Steinhart. Science 19 April 1974: 184 (4134), 307–316.&lt;/p&gt;
+
+&lt;p&gt;[4] Wasted: How America Is Losing Up to 40 Percent of Its Food from Farm to Fork to Landfill. Dana Gunders. National Resources Defense Council. Issue Paper. August 2012 IP:12–06-B&lt;/p&gt;
+
+&lt;p&gt;[5] On-Farm Assessment of Soil Quality in California’s Central Valley. Andrews, Susan S., Mitchell, Jeffrey P., Mancinelli, Roberto, Karlen, Douglas L., Hartz, Timothy K., Horwath, William R., Pettygrove, G. Stuart, Scow, Kate M., Munk, Daniel S.. Agron. J. 2002. 94:12–23.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2014/10/24/future-of-food-and-tech.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2014/10/24/future-of-food-and-tech.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Colorado Bound</title>
+        <description>&lt;h1 id=&quot;colorado-bound&quot;&gt;Colorado Bound&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/8027426853_efb378f17a_k.jpg&quot; alt=&quot;Thistles and the fog in the coastal hills&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This Friday, I’m doing a serious thing: I’m putting my bicycle in a box and shipping it to Colorado 
+with the intention of following shortly behind it. After two years in the San Francisco Bay Area, I’m moving
+back to the Colorado Front range to start a job doing scientist-type stuff for the National Renewable
+Energy Lab (NREL) in Golden, Colorado. It’s not the most convenient time to move since Becky 
+still has nine months in her residency at Stanford, but I’m very excited about starting my new position
+at NREL and being back near the mountains I love, with many good friends nearby and pleasant proximity
+to some of my projects. Over the last two years, &lt;a href=&quot;http://boulderfoodrescue.org&quot;&gt;Boulder Food Rescue&lt;/a&gt; has grown and both &lt;a href=&quot;http://fallingfruit.org&quot;&gt;Falling Fruit&lt;/a&gt;
+and the &lt;a href=&quot;http://foodrescuealliance.org&quot;&gt;Food Rescue Alliance&lt;/a&gt; have started up, all three in Colorado. It hasn’t always been easy to be 
+involved with those projects from afar. I’ve made trips back to Colorado every few months, and have
+engaged in far more video conferencing than I ever hope to do again. During the last two years I’ve worked
+for a number of employers around the country, typically in a consulting role. I’ve enjoyed the flexibility 
+and diversity of the work, but I’m ready to be back with a team of fellow scientists chugging away on big 
+problems every day. The job at NREL promises to be everything I’m looking for in the sale of my 
+labor: challenging work with a talented team of collaborators on problems that have a potential 
+for meaningful impact. With 9 billion humans sharing this planet by 2050, it’s clear that now is a critical
+time for renewable energy research, and I’m honored to take a role at a national laboratory working away 
+on the scientific questions that need answered to make it work and scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/8795952665_4e559104a7_k.jpg&quot; alt=&quot;It doesn't get better than BLM living in the Eastern Sierra&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the move short at hand, I’ve spent some time deconstructing my last two years. I spent a good chunk of
+that time traveling. I went to Chicago (for the coldest winter in 50 years) and Pittsburgh, Nepal (to do research
+on sleep at altitude, and build snow yaks), and visited Hawaii (family and the surf), all for the first time.
+I also made trips back to Oregon, Colorado, Michigan, and New Orleans, as well as a number of exploratory adventures
+in California itself. As evidenced somewhat by my eagerness to travel, I never really felt like I fit in the San Francisco 
+Bay Area. And, in the last two years I’ve probably spent more time away traveling than I did here at home. 
+My friends in the city have grown tired of listening to me wax on about the relative virtues and vices of the city, its surrounding suburban sprawl,
+and their denizens. As a conscientious objector to the larger rat race, it seems a bit strange that I would
+willingly move to Palo Alto. After some thought, I think the hardest thing for me about being in Silicon Valley specifically has been
+a fairly complete displeasure with mainstream ‘tech’ culture. By comparison, where (and when) I got into computing, it was
+a relative fringe activity. I learned about computers in rainy Portland, Oregon, hacking away with
+fellow nerds in dim coffee shops or with friends up all night drinking tea. Computers were exciting, revolutionary objects.
+Seeing an open laptop on a train would be cause for a conversation. I was outspoken
+about the free software movement and the enabling power of open technology. I identified
+myself as a technologist and a ‘geek’ with pride. I’m no longer so proud to use that label. Having moved to the epicenter
+of ‘tech’, I’ve found the mainstream geek stereotype to be far different than I remember: materialistic, myopic,
+self-centered. It’s a place where you might trip over an Ayn Rand novel getting out of your shiny new Tesla.
+The local heros are antisocial billionaire CEOs; driving a Prius passes for environmentalism; the bloat of the rental market 
+means work work work to pay the bills. You certainly can’t pave the streets with ambition, but it does have a particular smell.
+Coffeeshop gossip isn’t worth overhearing: which latest startup did what? who is funding whom?
+Conspicuous consumption is more glaring than a redneck boating event; pleasant country roads are crawling
+with joyriders in their Lamborghinnis, Ferraris and Mclarins, celebrating their middle-aged-white-upper-class-maleness with revelry. 
+Forget the working class, the service class, firefighters, police officers, schoolteachers, nurses—none of them can afford 
+to live near where they work. For your necessary valuable labor friends, you can enjoy a long painful commute in traffic! 
+Every home is an ‘investment’ home and the tenant is mostly without rights. Palo Alto’s voters even recently banned sleeping in your car since they 
+tired of being reminded that there’s rampant homelessness tucked away on the side streets. Each day as I’ve ventured out into the
+world here, I’ve been a bit bewildered and I’ve wondered what’s going on with this place. It seems that ‘tech’ has run amok. It’s no
+wonder that in some parts of the city people are blockading buses and the tech influx are seen as pariahs. I’ve heard people claim
+that blaming the tech companies and their employees is an oversimplification of a more complex trend of gentrification in the Bay Area. I
+believe that too, it’s not a simple issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/8642475896_b8a64ef65f_k.jpg&quot; alt=&quot;The Common Ground Garden is a sanctuary in the city&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What I’ve learned to do in order be happy here is seek out the good things and ignore the rest. There is some substantial charm if 
+you know where to look (and where not to look). I’ll certainly never forget cutting hard turns through the 
+redwoods, bicycling to the ocean from my doorstep. Living in a house with good folks, working on projects, chatting around a fire, and playing urban 
+homesteader with perfect conditions for it. Gourmet dumpsters abound and there’s always something fruiting, the trees stand tall and 
+healthy, and the doors are open at the local cooperative houses. I got to teach middleschoolers how to grow 
+food (while learning to grow it better myself) and develop a curriculum we’ll be sharing with other teachers this Fall. When people
+asked me what I did, I said I “volunteer at a local garden”. Escaping the tech-infested peninsula, as it seems those who prosper here often do, 
+I ate more exceptional burritos than any human should, stomped around in the forest and swam against the strong tides
+and wild waves at Point Reyes. I learned to roll a kayak and ride the surf in. I made friends in the East Bay, had discussions about big ideas, 
+and built things with my hands. I ate the best Ethiopian, Oaxacan, and South Indian food I’ve certainly 
+ever had while extolling the pleasure of substantial ethnic diversity (certainly first among those places I’ve lived). I enjoyed discussions
+with strangers on the train and chatting with my neighbors about local history while gardening. 
+I never quite found a music venue, coffee roaster, or brewery that was a knockout, but I enjoyed looking. 
+Ranging farther from home, I fell hard for the Owens Valley and particularly the land and mountains around Bishop.
+I started new romances with the Mojave, Death Valley, and the high Sierra—places I’ll definitely be back to.
+After some puzzling and exploring, I decided that Pinnacles is actually a lovely place to climb rocks. I’ll leave with a 
+handful of new friends that I wish I could bring along, and am thankful for the time I got to spend
+with at least one long time friend, who somewhat inexplicably was already living here when I got here. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/14592936889_3cbe07d70b_k.jpg&quot; alt=&quot;Becky works the bees&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although I’ve spent a good amount of the last two years perplexed, feeling out of place, fighting to opt-out of 
+what I perceived to be a dominant culture that I thought at one point I belonged to, the struggle was not without value. 
+As a result of living here I know better who I am and what I want and don’t want to do 
+with my life. At least right now, I have unfinished business in those big beautiful, challenging, quiet, and
+delicate Rocky mountains. I can say with some certainty that ‘tech’ is not for me and you won’t catch me driving a Prius (or Tesla), 
+or ogling a celebrity entrepreneur any time soon, until of course we’re all brainwashed by the vanguard that is being
+prototyped here. For me, for now, I know I just want to work on hard problems, climb big mountains, help build supportive communities,
+and try as best I can to make the world a better place. I know where I need to be to do that.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2014/08/21/colorado-bound.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2014/08/21/colorado-bound.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Thoughts on Running a Nonprofit</title>
+        <description>&lt;h1 id=&quot;boulder-food-rescue-at-a-year&quot;&gt;Boulder Food Rescue At a Year&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/6527145777_0d4ae7f867.jpg&quot; alt=&quot;BFR Crew&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s been almost exactly a year since I sat down and started filling out the paperwork to create a 501(c)3 nonprofit called &lt;a href=&quot;http://boulderfoodrescue.org&quot;&gt;Boulder Food Rescue&lt;/a&gt;. Since then, we’ve grown from the three founders (myself, Hana Dansky, and Becky Higbee), to a crew of more than a hundred folks in Boulder who are passionate about issues surrounding food: both reducing waste and getting nutritious fruits and vegetables to folks who wouldn’t otherwise have access to them. This week, we’ll hit 150,000 lbs of food rescued. Last month, we rescued almost 24,000 lbs. Every month, we have rescued more food than the last. And, perhaps most excitingly, there are food rescue groups in Oakland and Denver that are beginning to use our model. This, to me, indicates that we’re doing something right: we’ve developed a powerful model that supports a straight-forward idea. And, we’re addressing very real issues.&lt;/p&gt;
+
+&lt;p&gt;This month, Hana, who has been working as a full-time volunteer since we started the organization, took the position of Executive Director. Having a paid staffer is a big step for us, and I have great faith in Hana’s ability to lead the organization. We’re currently &lt;a href=&quot;http://indiegogo.com&quot;&gt;fundraising&lt;/a&gt; to support the position (contribute if you can!). Prior to Hana taking the helm, I’ve served as the defacto Executive Director. It’s been an absolutely enjoyable experience, from which I’ve had the opportunity to learn a great deal. With Hana taking over, I thought I’d write a little something about what I’ve learned, running an all-volunteer nonprofit. Maybe there’s a book somewhere that tells you to do these things, but I haven’t read it. These are simply the things that I’ve gathered, some of them seemingly by accident and some through a lot of hard work:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be Uncompromising:&lt;/strong&gt; When we started Boulder Food Rescue, we decided that we wanted to solve the issues of food waste and hunger (malnutrition) in our community. We wanted to create an idea that could spread to other areas. But, in hindsight, perhaps most importantly, we wanted to do it without substantial environmental impact—using bicycles to transport the food. In the first couple months, I fielded a lot criticism about this. Were we being too idealistic? Too stubborn? It couldn’t work in the winter, could it? What if there was too much food? Could food be transported safely when it got hot? Well, it works. And, more than that, I think that the uncompromising nature and sheer stubbornness of this goal is responsible almost directly for our success. Doing food rescue by bike draws attention to what you’re doing, it conveys your commitment and passion, it provides access to a ready set of natural allies vis a vis the bike community, and perhaps most importantly, it’s &lt;em&gt;fun&lt;/em&gt;. In hindsight, I can’t underestimate how important that decision was to getting us where we are.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t pay for anything you might be able to get for free:&lt;/strong&gt; Time and time again I’ve been surprised at what other organizations and individuals are willing to give as a gift, when all we do is ask. People have donated bike trailers, tools, and a tremendous amount of their time and expertise. We’ve managed to survive a year on an extremely small budget and in part that’s because we’re frugal, creative, and crafty. Knowing what you can get for free, what you can ask to have donated, and what you &lt;em&gt;must&lt;/em&gt; pay for, is essential for keeping costs down.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be Persistent:&lt;/strong&gt; Simply put, grocery stores don’t want to donate food. As profit-motivated organizations, it’s not immediately clear that it’s in their best interest. Their employees are overworked and distracted by other projects. They (often) hire communications personnel trained to convey their business in the best possible light (even when it isn’t strictly true) and to politely turn away any inquiry that may require a bit extra work or distract from the central mission. While this is especially true of grocers, it’s also true of restaurants, caterers, and bakeries. Every single one of our donors told us “no”, usually many times, before they eventually said “yes”. And, it was sheer persistence and commitment to our ideas that allowed us to patiently ignore the “nos”, while waiting for the “yes” we knew was coming. This stubborn persistence takes work, but I think it has been essential to our succeeding to the extent that we have.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lead By Example:&lt;/strong&gt; I don’t have any training in managing people (or employees). I know there are classes on this that tell you what to say and how to motivate employees and volunteers. I don’t know if those things work, but here’s what has worked for me: work to the standard that you want other people to work to. If you do the jobs that no-one else wants to do, and do them well and happily, then other people may decide to follow your lead. If you come to meetings, and show up on time, and work with passion, it may rub off. I try to work harder than anyone else that I ask to help me so that when I do ask for help, I have a chance to have earned the permission to make that request.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ask for Help When you Need It:&lt;/strong&gt; The first month the nonprofit existed, we ran in the red. I paid for things out of pocket and watched our negative balance grow. Then, one morning, I wrote an email to about 30 of my friends and family. I told them what I was doing and asked for a little help monetarily to get things going. I was blown away by the generosity. We went from a negative balance of almost $1,000 to a positive balance of ~$2,000 almost over night. It was due to these people that we were able to get off the ground to begin with. Then, sometime during the Spring, I had to ask for help again: I ran into a personal conflict between the 40+ hours a week I was putting into Boulder Food Rescue, and the 80+ hours a week I needed to put into my thesis to finish by the deadline I had set. I was overworked and stressed out, and for a moment there, I stopped enjoying the work that I had enjoyed the most because it felt like I was just moving, robot-like, from one task to the next. Then I did something that doesn’t come naturally (to me at least): I asked for help. In particular, I asked Becky, Hana, Helen, and Nora if they could take over some of the things I had been doing (on top of all the work they were already doing). I was blown away by their response and willingness to take on more responsibility and to help me when I needed it. In addition to reminding me what it means to be a good friend and helping out when it’s needed, they showed that they wanted to do more and were more than happy to step up.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to even start to claim that this is all there is to running a successful all-volunteer nonprofit organization. I think there’s a great amount that is domain-specific: minutia about how to do outreach and recruiting, and we’ve learned plenty there too, which we’ve tried to package into a handy publication to help other food rescue groups get started. But, for me at least, these five things are the big ones. They have become a personal mantra and  I think they might be generally adaptable to other organizations. While they feel obvious in hindsight, a year ago I wouldn’t have even known where to start if someone asked me how to run a nonprofit. I’m extremely thankful for the opportunity I’ve had to develop these skills and all the wonderful people I’ve worked with. I know that Hana will be a fantastic leader of the organization—in many ways I feel that she’s naturally a better leader than I am. I’ve done my best to create an organization with momentum, but in the end we got lucky too: we found a strong community, we tapped into an issue that a tremendous number of people seem to be able to readily relate to and want to help with, and we’ve been the beneficiaries of a huge amount of generosity. I’m excited to see where Boulder Food Rescue is at its second anniversary, and to hear all about the necessary lessons that came with taking a one year old organization through its second year.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2012/08/16/thoughts-on-running-a-nonprofit.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2012/08/16/thoughts-on-running-a-nonprofit.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Borrowed Bikes</title>
+        <description>&lt;h1 id=&quot;borrowed-bikes&quot;&gt;Borrowed Bikes&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bike.jpg&quot; alt=&quot;Bike&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m wrapping up an almost-two-week stay in Portland to visit friends and family. While here, I’ve been putting around on bicycles generously loaned by my friend Esther. And, it’s got me reminiscing about all the bikes I’ve borrowed while traveling. I’m quick to fall in love with a bike, and I’ve had the fantastic opportunity, due to the generosity of friends and strangers, to ride quite a few borrowed bikes and fall in love with each of them. In my opinion, there’s really no better way to travel, or explore a new place while traveling, than on a bicycle.&lt;/p&gt;
+
+&lt;p&gt;The first bike I remember borrowing while traveling was in the Netherlands. In Amsterdam, Judith loaned me her dark-brown in-city commuter. I wasn’t in Amsterdam for more than 2 hours before I was riding ‘Dutch’ around the city with Judith. She introduced me to the rules of the road, a few places to get a strong pint, and generously let me borrow the bike for about a week. During that time, I rode all over the city: to die Wallen, the Vondelpark, various events, and to the conference I was there to attend. At one point, I made the mistake of trying to add some air to the tires and the tire ripped wide open. I repaired it before returning it, but learned that on an old dutch bike, if it isn’t broke, you shouldn’t try to fix it.&lt;/p&gt;
+
+&lt;p&gt;When Judith needed her bike back, I was able to borrow another from friends-of-a-friend: Jeff and Daniel (via Esther). This was an orange Schwinn Collegiate (pictured, right). I only had it for a handful of days but it got me around pleasantly. &lt;/p&gt;
+
+&lt;p&gt;In New Orleans, I got around on Steve’s single speed Kona. I rode that bike all over the place—on several long rides exploring the inner and outer New Orleans neighborhoods, on a couple long rides on the Levy path, and as a way to get myself around the city. &lt;/p&gt;
+
+&lt;p&gt;In Hamilton, New Zealand, I knew I’d need a bike to get around. Since I was there for 3+ months, I considered purchasing one, but all the options seemed crummy or expensive or both. I spent a bit of time tooling around on the internet, and found a group of cyclists in the city that seemed active. I posted something there asking if there was anyone who could spare a road bike for a couple months. To my surprise, a friendly guy named Rob offered me his silver aluminum road bike. Despite the fact that I didn’t know Rob, he was happy to take a leap of faith and loan his lovely bike to a perfect stranger. I took the bus out to pick it up and rode it home in a proper rainstorm. I narrowly avoided a crash navigating my first 2-lane round-about (driving on the left) in the rain on an unfamiliar bike. I made it back home, soaked, but overjoyed by the kindness of strangers. I didn’t do as many long rides as I had hoped that winter, largely because of the conditions, but it got me around Hamilton and on one or two long rides out into the country.&lt;/p&gt;
+
+&lt;p&gt;On a prior trip to Portland, Tabor lent me his self-built Surly crosscheck and Ortlieb saddlebags. I took it all around. Embarrasingly, I went over the handlebars once, when a car stopped suddenly in front of me and I braked hard with my left hand (front brake in the US, rear brake in New Zealand :P). Minor damage to me and the bike, but mostly to my ego. I argued a bit with the russian-speaking drivers before giving up and biking away. &lt;/p&gt;
+
+&lt;p&gt;In Germany, Eric and I rented bikes from the Mobil bike rental at the central station in Freiburg. At 5 eur per day, the bikes were clearly priced not for profit, but for convenience. The bike I rode was a heavy Giant-brand bike with internally geared hub shifters, big fat touring tires and a pendulous saddle bag. We took the bikes on the trains towards the Austrian border (the Bodensee) and then rode back along the Rhine on the Swiss-German border. I fought a bit with the internally geared hub, but the bike made it more than 120 miles, so I can’t complain. The ride was followed a gorgeous river through idyllic countryside and small towns. Eric and I drank our fair share of Radler, accompanied by hearty bread and delicate pastries.&lt;/p&gt;
+
+&lt;p&gt;During my present stay in Oregon, I’ve ridden two bikes, both Esther’s. When I first got here, she lent me her Schwinn Tour de Lux touring bike. I rode it a bit around town and then from Hillsboro to the beach along the Nestucca River Road. It was 80 miles with a pile of gear, but the trip was a fantastic homecoming to Oregon, going through some unbelievably beautiful country, starting in wine-making and lavendar growing farmlands, up and over the thick coastal range, and ending in the fertile Tillamook dairying country washed with salty sea air. When she needed the bike back for a touring trip of her own, she lent me her Brompton folding bike, which I’ve been using to get around since. I’ve put a decent number of miles on the ‘Brommie’ and despite it’s squat geometry, have found it to be a very capable bike.&lt;/p&gt;
+
+&lt;p&gt;I don’t think it’s an accident that the trips where I’ve spent the most time riding a bicycle are also the trips that looking back I enjoyed the most. For instance, I’ve been to Europe a couple times, but no other trip holds a candle to my time in Amsterdam when I did so much exploring by bike (and in a place where bicycles are so integrated into the culture). My experiences in New Zealand, Germany, and New Orleans were totally enabled by the bikes that I rode. I’m indebted to the wonderful people who’ve let me use their bikes. The world, while traveling or otherwise, is simply better experienced on a bike.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2011/08/08/borrowed-bikes.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2011/08/08/borrowed-bikes.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>An Apple Core Theory</title>
+        <description>&lt;h1 id=&quot;an-apple-core-theory&quot;&gt;An Apple Core Theory&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/apples.jpg&quot; alt=&quot;Apples&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For some time, I’ve been trying to figure out why people don’t eat apple cores. They taste just as good as the rest of the apple if a little chewier. Really, you can eat the whole damn thing except the stem (sometimes I get excited and eat it too). I’ve also been taking a secret poll of my friends to see who also eats cores. It’s only a few (less than 5 by my count). But those few get mad-props in my mind. Eating apple cores indicates a certain cultural flexibility and rejection of assumed norms with respect to food. It also shows that you really really enjoy a good apple and that’s an indicator of serious inward goodness and balance in some sort of goofy food-centric mental-health world-view. Maybe there are more, but mostly I observe people toss the cores or (if I’m around) hand them to me to eat. &lt;/p&gt;
+
+&lt;p&gt;Last month, while hanging out in Portland and picking and devouring “too buggy to sell” Honeycrisp apples (an amazing burden to have) I had a revelation. Here’s what I think: prior to pesticides and large scale industrialization of farming, apples were more similar to what you get if you walk down the street and pick an apple off the tree and bite into it. Some percentage of these “real” apples have bugs (as Michael Pollan would say: it’s good to see other critters taking interest in your food). The majority of bugs seem to live in the core. Hence, a good fraction of these apples, you have to throw out the core. This isn’t true of apples you buy from your local supermarket or farmers’ market. These apples come from carefully farmed and sprayed trees. They don’t have bugs. Even if you buy “organic” or “local” apples, you only see the creme de la creme for sale and those are the non-buggy ones. So, you can safely eat the core. Exciting theory, no? Well, it excites me anyway, because we basically have an entire nation of people throwing out otherwise fine food because we have this cultural aspect of food which tells us that you aren’t “supposed” to eat an apple core. But, this societal apple core more (that’s the 5th OED sense of “more”) is outdated. Antiquated. Useless. Behind the times. Your apple cores are safe, people! Eat them. You won’t regret it.&lt;/p&gt;
+
+&lt;p&gt;It’s harvesting time here in Colorado—both regionally and right in my neighborhood. I’ve been picking and canning fruit and food like a madman in preparation for the winter (or the apocalypse, apparently). I’ve registered the domain &lt;a href=&quot;http://fallingfruit.org&quot;&gt;FallingFruit.org&lt;/a&gt;, which serves as a front-end to area maps of local “urban edibles” (this is a fork from &lt;a href=&quot;http://UrbanEdibles.org&quot;&gt;UrbanEdibles.org&lt;/a&gt;). I’ve mostly been canning peaches and apples. This Friday, Hana and I picked about 2 bushels of apples and made apple sauce. 14 quarts of apple sauce and there are still enough apples leftover for cellaring (apples keep all winter if kept at the right temperature) and making pies. I also caught the tail end of peach season and canned up a bunch of “bourbon vanilla peach preserves”. It didn’t quite turn out as good as previous years (I blame the pectin I used and my inclination to stray from the recipe), but is still pretty tasty. I’ve also been canning other things. I piled up about 3/4 of my canned food stock the other day and set it out to take photos, which are in my &lt;a href=&quot;http://www.flickr.com/photos/somerandomsequence/&quot;&gt;photostream&lt;/a&gt;. I’m simultaneously proud and embarrassed about my obsessive stock. I honestly don’t have enough space in my house for all my canned goods and must keep some at my work and some in my closet. I think I need to build a storage system or something.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/canning.jpg&quot; alt=&quot;Canning&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In other news, I’m back in Colorado and have been settling back into work and school. Two weeks ago I spent a little time in the Canadian Rockies where I met up with Becky and attended the International Conference on Nonlinear Dynamics (ICAND’10). I was there presenting my work on using computers to assist in setting climbing routes, which I call &lt;a href=&quot;http://strangebeta.com&quot;&gt;Strange Beta&lt;/a&gt;. While up there we did some driving around and a bunch of trail running and some hiking. The aspens were turning and the peaks snow-frosted. It was absolutely gorgeous. The conference went very well and it was great to see Becky after more than 3 months apart. She &lt;a href=&quot;http://higbort.blogspot.com/2010/09/week-8-9-celebrations.html&quot;&gt;wrote some stuff about the trip&lt;/a&gt; and &lt;a href=&quot;http://www.flickr.com/photos/35162067@N02/&quot;&gt;took some photos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This semester, I’m working in Boulder Highschool where I’m helping with some social studies classes. Besides this, I’m working on my thesis research, auditing one class, functioning as the department social chair, and sitting on department’s decision making graduate committee. I’m also training a bunch, working on my cycling and running mostly and taking a bit of a break from climbing.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 Oct 2010 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2010/10/03/an-apple-core-theory.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2010/10/03/an-apple-core-theory.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Beep-Beep</title>
+        <description>&lt;h1 id=&quot;beep-beep&quot;&gt;Beep-Beep&lt;/h1&gt;
+
+&lt;p&gt;I’ve just finished up 3 months in New Zealand. During a good portion of this, I was working at the University of Waikato in a smallish town in the middle of the north island, called Hamilton. More recently, I just wrapped up a 12 day long, mostly-solo journey in a campervan (basically a minivan with a bed and sink in it). All told, I put in just under 3000 Km’s of driving and saw a whole bunch of the north island. Just before the roadtrip, I also had the opportunity to travel to the south island and give a talk at the University of Canterbury. I explored the city of Christchurch and got into the mountains at least one day (weather only permitted one day) to study the (icy, slopery) boulders at Castle Hill and the beautiful Arthur’s pass. Winter isn’t the best time for the south island and 4 days (10 if you count my trip to the region around Nelson in June) isn’t much time, so there’s alot left to explore, but I’m happy to say that I’ve at least done my due-dilligence in exploring the North Island.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/chch_sheeps.jpg&quot; alt=&quot;Christchurch Sheeps&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s start here: there are two things you should know about Kiwis (that is, the people from New Zealand not the birds, fruit, or bears (possums)) which serve to summarize them to a large extent in my mind.&lt;/p&gt;
+
+&lt;p&gt;Number One. When driving, one-honk is meant to be alerting, or perhaps angry, but two short honks are generally something positive. A thankyou, or hello, for instance. On runs in the country (the “country” starts about 2 blocks from my house in Hamilton), it is quite common for a random passing driver to give a short bee-beep followed by a friendly smile. At first, I was thoroughly confused. Are they upset I’m running here? Do they know me? Are they just being malicious and trying to startle some poor running sap on the side of the road. Nope, it turns out, as I would learn, that they were really just random people, who saw me doing something they approved of (running), sometimes in inclimate conditions (I’m here in the winter, rainy runs are par for the course), and wanted to give a bit of friendly encouragement: “Good on ya’ mate”.&lt;/p&gt;
+
+&lt;p&gt;Number Two. You can’t drink alone in a pub. In the states, I’m used to being able to walk alone to a bar, grab a beer and work on a crossword or a good book or write in a journal. In New Zealand, good luck. Every pub I’ve been to, in every town, if there are people there and you’re alone, they’ll walk up to you and start a conversation. “Who’s that bloke sittin’ by ‘imself? Must need some’on to talk to, eh?”. Similarly, If I found I’m making a bit of tea (or coffee) on the side of the road in the middle of nowhere and a car passes, they’re likely to stop and see how it’s going. “What are you up to? Where are you going? Where are you from? Sounds like a grand adventure. I remember when I had a similar one. Sweet-as weather, eh? Go The All Blacks. (etc.)”.&lt;/p&gt;
+
+&lt;p&gt;These two things are very different from what I’m used to back home. To me, they quickly summarize the friendly and altruistic nature of the people of New Zealand, who have, as a whole, been remarkably hospitable and accomodating during my time here.&lt;/p&gt;
+
+&lt;p&gt;What about the country? Well, my road trip started in Auckland, then I ventured south along the west coast (Tasman Sea) to the mountainous region in the center of the north island. Next, I moved north and kept going north. The geothermal area around lake Taupo and the coromandel Peninsula and the east coast (Pacific) were next. I picked up a friend in Auckland and continued north up to the northernmost point of the north island (Cape Reinga at 34-degrees longitude) and then back south to Auckland and finishing up in the Waikato valley around Hamilton, where I called home for the two months prior. Here are some assorted highlights from the 12 days in the campervan:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sausage_pie.jpg&quot; alt=&quot;Sausage Pie&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bill and Brenda at the Oparau store and their amazing hospitality (and home-made curried sausage pie)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Running on the beach at Kawhia with the waves crashing and then running a trail in the inland bush later in the same day&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Discussing rugby over beers with some celebrating (having just won a match) players in Taupo&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Running around lake Taupo dodging geese and running in the redwoods outside Rotorua in the pouring rain (and twisting an ankle and limping/jogging out 4K or so)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The hotsprings in Taupo with hot waterfalls and walking into the cold, crystal clear Waikato river afterwars&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A Barry Crump novel and a Croucher’s beer on a rainy day in Rotorua&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kayaking around Cathedral Cove and the amazing beaches and islands there&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sitting in my own custom hot-pool at hot-water beach and watching the sun set on the crashing waves&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Swimming out to the rocks to pick some green-lipped mussels and boiling them up in (the remainder of) a bottle of Sauv. Blanc while dancing by myself to Sublime in a carpark in the middle of nowhere (half hypothermic and half high-on-life)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Amazing local produce from farm stands in the Bay of Plenty (Avos, apples, and carrots, oh my).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More single-lane bridges and windy-as roads than I can shake a stick at. Owls, Hawks, Possums, Wild Pigs, and tons of unidentified birds of all colors shapes and sizes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Driving into Auckland and having the overwhelming feeling that I was leaving New Zealand&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A pile Beers with folks at a brewpub in Whangerei and stories about (those bastardly) possums, cowboy hats, and the rural northlands&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hiking out to an isolated cove in the Bay of Islands, skipping stones and jumping in the cold Pacific&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Running by the beach, far north in Spirit Cove.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sheep right up to the last, rugged, northernmost kilometer of New Zealand&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Climbing up and tumbling down giant Sand Dunes in the far north&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Beers with friends in Raglan and feeling like a surf-bum waking up at the beach to be the first to check the conditions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Good craft beers at the Ruakura Campus Club with friends from Hamilton&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Climbing Mt. Pirongia and watching the clouds clear while walking down the ridge overlooking the Waikato valley&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I took a few pictures with my crummy camera phone which are on Flickr. I took a few more with my film camera, but it’ll be some time before I get them developed and uploaded.&lt;/p&gt;
+
+&lt;p&gt;It’s been a good summer/winter and I’ve found a second (third?) home in New Zealand. I’m sure I’ll be back as I now have a pile of friends to visit along with a whole heap of didn’t-get-around-to-its. Right now, however, sitting and waiting for my flight to board in the Auckland airport, I feel content and am excited to see my loved ones back home (who will surely make fun of me for the kiwi slang I’ve picked up) and get back to work in Boulder (on my research, cycling, and boulder-projects). I’m looking forward to catching the tail end of summer back state-side before diving into my second winter in a row. My next travels will probably take me to Lake Louise (where I have a conference to attend) and Quetzaltenengo (where Becky has wandered off to). But, those trips are still a ways off and I’m excited to spend a bit of time at home.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Sep 2010 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2010/09/02/beep-beep.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2010/09/02/beep-beep.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>On Obesity and False Friends</title>
+        <description>&lt;h1 id=&quot;on-obesity-and-false-friends&quot;&gt;On Obesity and False Friends&lt;/h1&gt;
+
+&lt;p&gt;Recently, I was having a back-and-forth with a friend about the correlation
+of obesity with “westness” in the United States. I made the argument that
+Colorado can’t really be in the “Midwest”, because the obesity rate is far
+too low. Tongue-in-cheek, I proposed that a state should be only considered
+in the Midwest if its “Fat People to Mountains” ratio is sufficiently high.
+Unbeknownst to me, this conversation set off a different “friend”, who took it all
+extremely personally and decided to vent his frustration via a public attack
+on my character. Among other things, he claimed that my “position” on the obesity
+epidemic was extremely shallow (and ignorant).&lt;/p&gt;
+
+&lt;p&gt;Despite turning out to be a surprisingly nasty person (good riddance), I do have something to thank him
+for—he got me thinking about writing something about my position on obesity.
+Which, I can assure you, is not shallow (and hopefully not ignorant, either). Indeed,
+it is one of about 2 or 3 topics that I am passionate enough about to consider, at times,
+devoting my life to, or at very least, having no hesitation to bloody my knuckles over.&lt;/p&gt;
+
+&lt;p&gt;Lets start here: I was a fat kid. Like, really, very fat. When I was 15 years old and
+5’8” I weighed 225 lbs. Growing up, and even today 10 years later, I identify myself
+as the “fat kid”. I feel that way, like a bit of a social outcast and self-conscious
+of how I look. I’ve been told by recent friends that this is surprising since I am
+so focussed on fitness today. My current run of good health started when I was 16.
+I lost nearly 75 lbs in about 6 months. After that, I gained back some weight, but
+have been losing weight again since I moved to Colorado. I’m happy to say that today I’m
+the fittest I’ve been and the most happy with my self-image. In large part, I lost the
+weight that I did because of a couple important life changes. Firstly, I started making
+friends who cared about fitness. My girlfriend Becky and my good friend Jake at the time
+were huge influences on me. I remember vividly panting after a game of pickup basketball
+with Jake, or stopping to walk multiple times along a mile long run with Becky. My neighbor
+at the time, Frank, who was a personal trainer, also took me under his wing and taught me
+about weight-training and eating well. For months, I met with him every morning and we commuted to
+his place in North Portland, where he would train me pro-bono before his real clients started
+showing up.&lt;/p&gt;
+
+&lt;p&gt;I also changed my eating habits. I basically started classifying all of the foods I could eat
+as “good” and “bad”. I was allowed to eat as much “good” food as I wanted but could only
+have very little or no “bad” food. Good food was things like rice, tofu, vegetables. Bad
+food was things like red meat, fast food, snacks, etc.. This “diet”, paired with substantial
+exercise was extremely effective for me. In fact, I had to have someone close to me tell me
+that I needed to start eating more, once I got down to 154 lbs and started to look unhealthy.
+I guess I can be a bit obsessive. I don’t mean to imply that this can work for everyone, but
+this worked for me, and now I know that it works—which is extremely empowering. It’s a
+fantastic feeling to know that I can control my own health and how to work with my body.
+This empowerment replaced an equal feeling of helplessness that had typified how I felt
+about my body and health previously.&lt;/p&gt;
+
+&lt;p&gt;My “friend”, during his tirade of late, accused me of not seeing the “why” of obesity. He really
+couldn’t be more wrong—it’s entirely the “why” that I’m concerned with. So, why was
+I fat? I was actually a pretty fit and active youngster growing up. However, around the time
+I was 6, my mother went into treatment. During that time, I lived with a number of other
+families and family friends. One family that I lived with, was very overweight and had bad
+eating habits. Between the psychological trauma of losing my mother and the bad environment,
+I gained alot of weight. I established eating habits which were harmful and began to associate
+emotional fulfilment with food. I still struggle with these things today, but I know how I work
+and I can call myself on self-deception (a bit of a circle, but it works). For me at least, my
+physical health increased in direct proportion to my mental health. As I became an adult, learned
+self-confidence, and something about myself, I also learned how to eat right and found substantial
+joy in exercise.&lt;/p&gt;
+
+&lt;p&gt;So, why are other people fat? Why is our whole damn country fat these days? Well, this is the part 
+that gets me really riled up, because the way I see it (and I’m not alone), the obesity is just a
+very visible (hah) symptom of a number of confounding issues with the way things are done in the
+United States (and a number of western countries).&lt;/p&gt;
+
+&lt;p&gt;The free-range that we have given to large corporations to take ownership of our food supply has resulted in an environment where unhealthy food is cheap and easy and healthy food is expensive and difficult to obtain. This
+then, plays into a socio-economic stratification that is still very much a problem in the states. Access to healthy food and education which helps people understand how to be healthy, is only accessible for the affluent. When I was growing up, we didn’t have much money, and my mother did a wonderful job raising me on very little. I also had substantial support from a loving extended family who taught me how to cook early, and taught me principles of gardening and the wonder of fresh-picked fruits and vegetables. I also learned that food is scarce and must be valued. These are lessons I’m lucky to have had an opportunity to learn and not everyone has access to them, either via their family or via greater society.&lt;/p&gt;
+
+&lt;p&gt;Similarly, the failure of our (very rich) government to provide basic services to the people in terms of healthcare, drug rehabilitation, and mental health facilities, creates an environment where it is difficult to be healthy and forbidding to take ownership of your personal health in a positive way.&lt;/p&gt;
+
+&lt;p&gt;Our massive transportation infrastructure for automobiles is fundamentally at odds with the interests of the people who live in the urban environments the infrastructure is meant to serve. Excluding a few exceptions, the United states isn’t a friendly place to be a pedestrian, ride a bike to your job, or go for a run. All along the way, you must dodge blundering automobiles and their exhaust.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, we have funding cuts for our national parks and forests and as a result increased usage fees. Visit a national forest park, you’ll find the fees have jumped up 10 dollars or more and the sites have all been refitted for motor-homes, reinforcing an excessive and unhealthy way of “consuming” the outdoors.&lt;/p&gt;
+
+&lt;p&gt;These aren’t all of the “whys”, but these are the ones I think about every day. In one way or another, be it via lack of education and access to cheap and healthy foods, poor funding for basic services, or profit-driven corporations running amok, it’s clear that the US is a fantastic environment for incubating unhealthy lifestyles that lead to the obesity epidemic we are seeing. There are plenty of people who feel as I do and have the same priorities. Folks that love their country and the people in it, and as a result wonder why we’ve stacked the deck against ourselves and our national health. Lots of these people care about this so much that they are fighting for it. My bikey friends in Portland, my family members that run Farmer’s markets, the hippies at the CSAs in Boulder—my hat is off to these people and their compatriots. But, there’s a lot more to be done. We need systematic change. We need an environment where it is easy to obtain healthy food and people are educated about their food sources, basic gardening, and how to prepare (and preserve) food themselves. We need to take control back from the corporations who do not have our interests at heart. We need small farms of high quality that are run by and for the people. We need infrastructure for the transportation of people, not cars. We need a government that sees these as priorities and is willing to put some of this war money to better use and get the citizens of this country healthcare that is better than the tax-credit-healthcare we have coming.&lt;/p&gt;
+
+&lt;p&gt;That’s all I really have to say, which is plenty I think. Hopefully a little bit of personal and heartfelt disclosure on an issue I care alot about is a positive contribution. My close friends and family have heard me get up on a soapbox about these issues time and time again, and are probably tired of it. Perhaps some day I’ll run away from grad school and start a store which sells good staple foods for a fair price and educates people on how to live a healthy life. In any case, thanks to you, undisclosed-angry-person-from-the-midwest for getting me at least annoyed enough by your total misunderstanding of me, my past, and my opinions to write something down about it.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Aug 2010 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2010/08/03/on-obesity-and-false-friends.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2010/08/03/on-obesity-and-false-friends.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>New Website and Miscellaneous Adventures</title>
+        <description>&lt;h1 id=&quot;new-website-and-miscellaneous-adventures&quot;&gt;“New” Website and Miscellaneous Adventures&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/waitamo_caving.jpg&quot; alt=&quot;Waitamo Caving&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For some time now, the wiki has been the most likely place for new and useful content
+to appear on my website. I’ve finally bitten the bullet and made the wiki the front
+of my website and done away with the static php-based site I had hacked together a number
+of years ago. This is the biggest change I’ve made to the website in a number of years.
+I’m also using the wiki for blogging now too, which should work out reasonably well. 
+My RSS feed should continue to work with minor interruption for the changeover. At some
+point, I’ll see about importing the blog archive to the new site so that it is searchable
+and whatnot. I’m probably the only person who cares about this, 
+but I think it’s worth doing.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, things in New Zealand are going well. Three weekends ago I visited some friends
+in Auckland and explored the city there. We hiked up a small cinder cone, watched some local rugby, ate some fantastic mussels, did a lot of wandering, drank a staggering amount of good wine, and rang in the fourth properly with homemade apple pie, potato salad, burgers, and Johnny Cash. 
+Two weekends ago, I went tramping (“tramping” == “hiking”) in the Kaimai range on the east coast of the northern island with a few folks from a tramping group in Hamilton. We hiked up to a hut on the ridge, predominantly via &lt;a href=&quot;http://tramper.co.nz/?3107&quot;&gt;Thompson’s track&lt;/a&gt;, taking in splendid views of the Bay of Plenty
+and east across Waikato. We also bush-bashed to the crash site of a &lt;a href=&quot;http://en.wikipedia.org/wiki/New_Zealand_National_Airways_Corporation_Flight_441&quot;&gt;famous aviation disaster&lt;/a&gt;. I took a couple crummy
+pictures on the trip, which I’ve uploaded to Flickr. &lt;/p&gt;
+
+&lt;p&gt;This last weekend, some american friends (Zane, Will, Dan, and Bradford) from around
+New Zealand came and visited my neck of the woods. We traveled south to Waitamo and did some caving
+there with a guide company. The caving wasn’t maybe as “extreme” as I might have hoped, but
+was still a blast. We saw tons of glow worms, jumped off underground waterfalls, and emerged from
+the cave unscathed at the headwaters of a sizable river. Really a neat experience overall. I also
+got to take the group around to my favorite spots in Hamiltron, including the Farmers’ market (which I
+actually hadn’t been to), the best spot for greasy late night grub, and the best spot for good craft
+beers. We drank good beers in the cool evening while watching the All Blacks stomp the Spring Bucks.&lt;/p&gt;
+
+&lt;p&gt;When not making weekend trips, I’m working in the lab here at the University of Waikato. I’ve been
+chugging away at what will likely become my thesis work and collaborating on various projects with
+students here. I’m only in New Zealand for a few weeks longer and am not sure what I’ll end up doing.
+Surfing, mountain climbing, and the &lt;a href=&quot;http://www.toughguyandgal.co.nz/&quot;&gt;Tough Guy race&lt;/a&gt; are all on the
+likely agenda.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jul 2010 00:00:00 +0000</pubDate>
+        <link>http://smallwhitecube.com.com/2010/07/18/new-website.html</link>
+        <guid isPermaLink="true">http://smallwhitecube.com.com/2010/07/18/new-website.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

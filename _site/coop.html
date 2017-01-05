@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- EXTERNAL LIBS-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://www.google.com/jsapi"></script>
+
+    <!-- EXAMPLE SCRIPT -->
+    <script>
+
+      function getWeather(){
+        var key = 'a9c9fa594147763a';
+        var jsonData = $.ajax({
+          url: 'http://api.wunderground.com/api/'+key+'/conditions/q/pws:KCOBOULD84.json',
+          dataType: 'jsonp',
+        }).done(function (results) {
+          $('#temp').text(results.current_observation.temp_f + "F");
+          $('#pressure').text(results.current_observation.pressure_mb + " mbar");
+          $('#humidity').text(results.current_observation.relative_humidity + " humidity");
+        });
+      }
+
+      // onload callback
+      function drawChart() {
+
+        var public_key = 'g6D3WJbx1ATg4Arn9x35';
+
+        // JSONP request
+        var jsonData = $.ajax({
+          url: 'https://data.sparkfun.com/output/' + public_key + '.json',
+          data: {page: 1},
+          dataType: 'jsonp',
+        }).done(function (results) {
+
+          var data = new google.visualization.DataTable();
+
+          data.addColumn('datetime', 'Time');
+          data.addColumn('number', 'Temp 1');
+          data.addColumn('number', 'Temp 2');
+          data.addColumn('number', 'Pressure');
+          data.addColumn('number', 'Humidity');
+
+          $.each(results, function (i, row) {
+            data.addRow([
+              (new Date(row.timestamp)),
+              parseFloat(row.temp),
+              parseFloat(row.temp2*1.8 + 32.0),
+              parseFloat(row.pressure),
+              parseFloat(row.humidity)
+            ]);
+          });
+
+           var chart = new google.visualization.ChartWrapper({
+                chartType: 'LineChart',
+                containerId: 'chart',
+                options: {
+                    height: 400,
+                    // omit width, since we set this in CSS
+                    vAxes: {0: {
+                                //viewWindowMode:'explicit',
+                                //viewWindow:{
+                                //            max:510,
+                                //            min:82
+                                //            },
+                                gridlines: {color: 'transparent'},
+                                },
+                            1: {gridlines: {color: 'transparent'},
+                                //format:"#%"
+                                },
+                            },
+                    series: {0: {targetAxisIndex:0},
+                             1:{targetAxisIndex:0},
+                             2:{targetAxisIndex:1},
+                             3:{targetAxisIndex:0},
+                            },
+                    chartArea: {
+                        width: '75%' // this should be the same as the ChartRangeFilter
+                    }
+                }
+            });
+    
+            var control = new google.visualization.ControlWrapper({
+                controlType: 'ChartRangeFilter',
+                containerId: 'control',
+                options: {
+                    filterColumnIndex: 0,
+                    ui: {
+                        chartOptions: {
+                            height: 50,
+                            // omit width, since we set this in CSS
+                            chartArea: {
+                                width: '75%' // this should be the same as the ChartRangeFilter
+                            }
+                        }
+                    }
+                }
+            });
+            
+            var dashboard = new google.visualization.Dashboard(document.querySelector('#dashboard'));
+            dashboard.bind([control], [chart]);
+            dashboard.draw(data);
+
+        });
+        getWeather();
+
+      }
+
+      // load chart lib
+      google.load('visualization', '1', {
+        packages: ['corechart','controls']
+      });
+
+      // call drawChart once google charts is loaded
+      google.setOnLoadCallback(drawChart);
+
+    </script>
+    <style>
+      body{
+        font-family: 'Open Sans','Arial';
+      }
+      div#weather{
+        margin-top: 2em;
+        margin-left: 6em;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>Coop Conditions</h3>
+    <div id="chart" style="width: 100%;"></div>
+    <div id="control" style="width: 100%;"></div><br/>
+    <h3>Outside Conditions</h3>
+    <div id="weather">
+      <ul>
+      <li id="temp"></li>
+      <li id="pressure"></li>
+      <li id="humidity"></li>
+      <li><a href="http://www.wunderground.com/personal-weather-station/dashboard?ID=KCOBOULD84">(full information)</a>
+      </ul>
+    </div>
+  </body>
+</html>
