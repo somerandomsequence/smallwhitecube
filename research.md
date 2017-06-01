@@ -5,84 +5,7 @@ permalink: /research/
 ---
 Here you will find an up to date list of my research publications and teaching as well as a list of collaborators and academic grants and fellowships. The authoritative version of this document lives at http://smallwhitecube.com/research.
 
-## Academic Publications
-
 {% include papers.html %}
-
-## Teaching
-
-Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2016. [Website](http://gsa.smallwhitecube.com)
-
-Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2015. [Website](http://gsa.smallwhitecube.com)
-
-National Science Foundation (NSF) [Graduate Teaching](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5472) (GK-12) Fellow. University of Colorado, Boulder/Boulder Highschool. 2010 - 2012.
-
-National Science Foundation (NSF) [Research Experiences for Undergraduates](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517&from=fund) (REU) Mentor/Advisor. Two Students: Mike Ton and Erik Bergal. University of Colorado, Boulder. Spring 2011 - 2012.
-
-Introduction to Unix System Administration (CSCI 4113). Instructor. University of Colorado, Boulder. Spring, 2010.
-
-Introduction to Programming (CSCI 1300). Teaching Assistant. University of Colorado, Boulder. Spring, 2010.
-
-## Advising
-
-[Hilary Egan](https://www.linkedin.com/in/hilary-egan-1a760647). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Spring, 2016.
-
-[Marcus Schwarting](https://www.linkedin.com/in/marcus-s-a7779486). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016 and Fall, 2016.
-
-[Austin Arrington](https://www.linkedin.com/in/austin-arrington-a7305b3). State University of New York (SUNY) - College of Environmental Science and Forrestry. Master of Science Thesis, Steering Committee. 2016.
-
-[Kalvin Ogbuefi](https://www.linkedin.com/in/kalvinogbuefi) - US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Summer, 2015.
-
-Zach Doyle - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393). University of Colorado, Boulder Food Rescue. 2014.
-
-[Sean Weise](https://www.linkedin.com/in/wiesesean) - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393) Mentor. University of Colorado, Boulder Food Rescue. 2012.
-
-[Helen Katich](https://www.linkedin.com/in/helen-katich-14a99445). INVST Commmunity Leadership Program. University of Colorado, Boulder Food Rescue. 2012.
-
-[Nora Leccese](http://www.hungercenter.org/fellow/nora-leccesse/). INVST Commmunity Leadership Program. University of Colorado, Bould
-er Food Rescue. 2012.
-
-## Awards
-
-National Renewable Energy Laboratory. President's Award. 2015.
-
-University of Colorado. Computer Science Department. Outstanding Research Award. 2012.
-
-[E-Town E-Cheivement Award](http://www.etown.org/e-chievement/caleb-phillips/). Boulder Food Rescue. 2012.
-
-University of Colorado. Campus Sustainability Award. Boulder Food Rescue. Partnership for Sustainability. 2012.
-
-University of Colorado. Graduate School. Exceptional Research Nomination. 2011.
-
-ACM MobiSys Ph.D. Forum. Best Presentation Award. 2011.
-
-Department of Computer Science. Outstanding Teaching Assistant. Spring, 2010.
-
-Department of Computer Science. Research and Community Development Award. 2009.
-
-## Grants and Fellowships
-
-National Renewable Energy Laboratory (NREL) Model and Tool Investment Prorgam (MTI). Wind Integration National Dataset (WIND) Toolkit Maintenance. Researcher and Co-PI with Caroline Draxl. 2017.
-
-National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). High-Throughput Experimental Materials Science Virtual Laboratory. Researcher and Co-PI with Andriy Zakutayev. 2017.
-
-National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). Creation of an Adaptive Remaining Lifetime Prediction Model of Power Electronics. Researcher and Co-PI with Doug Devoto. 2017-2018.
-
-National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). Intersection Visibility to Enhance Safety, Mobility, and Energy. Researcher and Co-PI with Myungsoo Jun. 2017-2018.
-
-National Science Foundation (NSF) Global Environment for Networking Innovation (GENI). Researcher/Network Engineer. University of Colorado, Boulder. GENI WiMax Project. 2010-2011.
-
-National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5284) (EAPSI) PI/Fellow. University of Waikato, New Zealand. Summer (Winter), 2010.
-
-## Academic Service Positions
-
-Energy Efficient High Performance Computing Working Group Workshop at Supercomputing 2016. November 13, 2016. Oraganizing Comittee. [Program](https://eehpcwg.llnl.gov/pages/conf_sc16Program).
-
-ACM MobiSys 2012 Ph.D. Forum Workshop Chair. June, 2012.
-
-University of Colorado. Department of Computer Science, Graduate Committee Senior Student Representative, 2010-2012.
-
-University of Colorado. Department of Computer Science, Social Committee Chair, 2009-2011.
 
 ## Published Datasets
 
@@ -96,7 +19,7 @@ University of Colorado. Department of Computer Science, Social Committee Chair, 
 
 [University of Colorado LTE](http://crawdad.cs.dartmouth.edu/cu/lte). Dataset of detailed Verizon LTE measurements in Boulder, Colorado. 2012.
 
-[University of Colorado Wide Area Radio Testbed](http://crawdad.cs.dartmouth.edu/cu/cu_wart). Measurements of outdoor urban wireless propagation using the University of Colorado Wide Area Radio Testbed. 2011. 
+[University of Colorado Wide Area Radio Testbed](http://crawdad.cs.dartmouth.edu/cu/cu_wart). Measurements of outdoor urban wireless propagation using the University of Colorado Wide Area Radio Testbed. 2011 
 
 [Portland Municipal Wireless](http://www.cradad.org/pdx/metrofi). Dataset of coverage and performance-related
 information of MetroFi, a 802.11x municipal wireless mesh network in Portland,
@@ -136,6 +59,79 @@ CU-Boulder researchers find food rescue can feed the hungry. *Boulder Daily Came
 
 *Off The Wall: Climbing With Chaos*. By Caleb Phillips. Climbing Magazine. No. 282. October, 2009.
 
+## Teaching
+
+Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2016. [Website](http://gsa.smallwhitecube.com)
+
+Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2015. [Website](http://gsa.smallwhitecube.com)
+
+National Science Foundation (NSF) [Graduate Teaching](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5472) (GK-12) Fellow. University of Colorado, Boulder/Boulder Highschool. 2010 - 2012.
+
+National Science Foundation (NSF) [Research Experiences for Undergraduates](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517&from=fund) (REU) Mentor/Advisor. Two Students: Mike Ton and Erik Bergal. University of Colorado, Boulder. Spring 2011 - 2012.
+
+Introduction to Unix System Administration (CSCI 4113). Instructor. University of Colorado, Boulder. Spring, 2010.
+
+Introduction to Programming (CSCI 1300). Teaching Assistant. University of Colorado, Boulder. Spring, 2010.
+
+## Advising
+
+[Marcus Schwarting](https://www.linkedin.com/in/marcus-s-a7779486). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016, Fall, 2016, and Summer, 2017.
+
+[Hilary Egan](https://www.linkedin.com/in/hilary-egan-1a760647). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Spring, 2016.
+
+[Austin Arrington](https://www.linkedin.com/in/austin-arrington-a7305b3). State University of New York (SUNY) - College of Environmental Science and Forrestry. Master of Science Thesis, Steering Committee. 2016.
+
+[Kalvin Ogbuefi](https://www.linkedin.com/in/kalvinogbuefi) - US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Summer, 2015.
+
+Zach Doyle - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393). University of Colorado, Boulder Food Rescue. 2014.
+
+[Sean Weise](https://www.linkedin.com/in/wiesesean) - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](http://www.caseyfeldmanfoundation.org/blog/?p=3393) Mentor. University of Colorado, Boulder Food Rescue. 2012.
+
+[Helen Katich](https://www.linkedin.com/in/helen-katich-14a99445). INVST Commmunity Leadership Program. University of Colorado, Boulder Food Rescue. 2012.
+
+[Nora Leccese](http://www.hungercenter.org/fellow/nora-leccesse/). INVST Commmunity Leadership Program. University of Colorado, Bould
+er Food Rescue. 2012.
+
+## Awards
+
+National Renewable Energy Laboratory. Employee of the Month. December, 2016.
+
+National Renewable Energy Laboratory. President's Award. 2015.
+
+University of Colorado. Computer Science Department. Outstanding Research Award. 2012.
+
+[E-Town E-Cheivement Award](http://www.etown.org/e-chievement/caleb-phillips/). Boulder Food Rescue. 2012.
+
+University of Colorado. Campus Sustainability Award. Boulder Food Rescue. Partnership for Sustainability. 2012.
+
+University of Colorado. Graduate School. Exceptional Research Nomination. 2011.
+
+ACM MobiSys Ph.D. Forum. Best Presentation Award. 2011.
+
+Department of Computer Science. Outstanding Teaching Assistant. Spring, 2010.
+
+Department of Computer Science. Research and Community Development Award. 2009.
+
+## Grants and Fellowships
+
+National Renewable Energy Laboratory (NREL) Model and Tool Investment Prorgam (MTI). Wind Integration National Dataset (WIND) Toolkit Maintenance. Researcher and Co-PI with Caroline Draxl. 2017.
+
+National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). High-Throughput Experimental Materials Science Virtual Laboratory. Researcher and Co-PI with Andriy Zakutayev. 2017.
+
+National Science Foundation (NSF) Global Environment for Networking Innovation (GENI). Researcher/Network Engineer. University of Colorado, Boulder. GENI WiMax Project. 2010-2011.
+
+National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5284) (EAPSI) PI/Fellow. University of Waikato, New Zealand. Summer (Winter), 2010.
+
+## Academic Service Positions
+
+Energy Efficient High Performance Computing Working Group Workshop at Supercomputing 2016. November 13, 2016. Oraganizing Comittee. [Program](https://eehpcwg.llnl.gov/pages/conf_sc16Program).
+
+ACM MobiSys 2012 Ph.D. Forum Workshop Chair. June, 2012.
+
+University of Colorado. Department of Computer Science, Graduate Committee Senior Student Representative, 2010-2012.
+
+University of Colorado. Department of Computer Science, Social Committee Chair, 2009-2011.
+
 ## Research Collaborators (Selected)
 
 *  [Eric Anderson](http://systems.cs.colorado.edu/~andersoe/) (Carnegie Melon University)
@@ -148,7 +144,7 @@ CU-Boulder researchers find food rescue can feed the hungry. *Boulder Daily Came
 *  Jamie Curtis (Rurallink Wireless, Waikato, New Zealand)
 *  [Steven K Dailey](http://www.researchgate.net/profile/Steven_Dailey/publications) (University of Cincinnati School of Medicine) 
 *  [Ryan Elmore](https://www.linkedin.com/in/rtelmore) (University of Denver)
-*  Becky Higbee (Stanford School of Medicine)
+*  Becky Higbee (Stanford School of Medicine; US Acute Care Solutions)
 *  Rhonda Hoenigman (University of Colorado, Boulder)
 *  [Harold Gonzales](http://systems.cs.colorado.edu/~gonzales/) (Google)
 *  [Kenny Gruchalla](https://www.linkedin.com/in/kennygruchalla) (National Renewable Energy Laboratory)
@@ -157,7 +153,7 @@ CU-Boulder researchers find food rescue can feed the hungry. *Boulder Daily Came
 *  [Grant Lipman](https://med.stanford.edu/profiles/grant-lipman) (Stanford)
 *  [Viveta Lobo](https://med.stanford.edu/profiles/viveta-lobo) (Stanford)
 *  [Tony McGregor](http://www.cs.waikato.ac.nz/genquery.php?linklevel=4&linklist=cs&linkname=J_to_P&linktype=report&listby=Name&lwhere=unique_record_id=11&children=) (University of Waikato)
-*  [Scott Raynel](http://www.wand.net.nz/~smr26/) (University of Waikato)
+*  [Scott Raynel](http://www.wand.net.nz/~smr26/) (University of Waikato, New Zealand)
 *  [Douglas Sicker](http://spot.colorado.edu/~sicker/index.html) (University of Colorado, Boulder)
 *  Russell Senior (Personal Telco Project)
 *  [Suresh Singh](http://cs.pdx.edu/~singh) (Portland State University)
