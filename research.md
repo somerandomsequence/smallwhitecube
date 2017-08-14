@@ -75,7 +75,13 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 ## Advising
 
-[Marcus Schwarting](https://www.linkedin.com/in/marcus-s-a7779486). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). Co-mentored with Andriy Zakutayev. Spring, 2016, Fall, 2016, and Summer, 2017.
+Jordan Perr-Sauer. National Renewable Energy Laboratory. Research Participant Program (RPP). University of Colorado, Denver. Data Science Intern. 2017. 
+
+Alexander Van Roijen. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). SUNY Binghamton. Summer, 2017.
+
+Rafael Orozco. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). University of Arizona. Summer, 2017.
+
+[Marcus Schwarting](https://www.linkedin.com/in/marcus-s-a7779486). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). University of Louisville. Co-mentored with Andriy Zakutayev. Spring, 2016, Fall, 2016, and Summer, 2017.
 
 [Hilary Egan](https://www.linkedin.com/in/hilary-egan-1a760647). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Spring, 2016.
 
