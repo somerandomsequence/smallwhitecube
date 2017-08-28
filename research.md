@@ -9,6 +9,8 @@ Here you will find an up to date list of my research publications and teaching a
 
 ## Published Datasets
 
+[WIND Toolkit Offshore Summary Dataset](https://doi.org/10.7799/1375460). This dataset contains summary statistics for offshore wind resources for the continental United States derived from the Wind Integration National Datatset (WIND) Toolkit.
+
 [U.S. PV-Suitable Rooftop Resources](https://doi.org/10.7799/1258436). This dataset contains zipcode resolution estimates of suitable area on buildings' rooftops for photovoltaic deployment. 2016.
 
 [HPC Power Measurements](https://cscdata.nrel.gov/#/datasets/d332818f-ef57-4189-ba1d-beea291886eb). Complete power and performance metric data of the [NREL Peregrine system](https://hpc.nrel.gov/users/systems/peregrine) taken from two years of operational data. 2016.
