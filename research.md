@@ -97,8 +97,7 @@ Zach Doyle - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](h
 
 [Helen Katich](https://www.linkedin.com/in/helen-katich-14a99445). INVST Commmunity Leadership Program. University of Colorado, Boulder Food Rescue. 2012.
 
-[Nora Leccese](http://www.hungercenter.org/fellow/nora-leccesse/). INVST Commmunity Leadership Program. University of Colorado, Bould
-er Food Rescue. 2012.
+[Nora Leccese](http://www.hungercenter.org/fellow/nora-leccesse/). INVST Commmunity Leadership Program. University of Colorado, Boulder Food Rescue. 2012.
 
 ## Awards
 
