@@ -43,7 +43,7 @@ Rooftop solar panels could provide nearly half of US Power. April 14, 2016. By P
 
 An Easy Way to Prevent Blisters? Try Tape. New York Times. Well. Physical Education. April 13, 2016. By Gretchen Reynolds. ([link](http://well.blogs.nytimes.com/2016/04/13/an-easy-way-to-prevent-blisters-try-paper-tape/))
 
-Boulder Food Rescue has growing appetite for slashing waste. Daily Camera. Boulder News. April 10, 2016. By Alex Burness. ([link](http://www.dailycamera.com/news/boulder/ci_29746290/boulder-food-rescue-has-growing-appetite-slashing-waste)
+Boulder Food Rescue has growing appetite for slashing waste. Daily Camera. Boulder News. April 10, 2016. By Alex Burness. ([link](http://www.dailycamera.com/news/boulder/ci_29746290/boulder-food-rescue-has-growing-appetite-slashing-waste))
 
 How Many People Can the Plants in One City Feed? [FiveThirtyEight](http://fivethirtyeight.com/). Data Lab. December 16, 2014. By Anna Maria Barry-Jester. ([link](http://fivethirtyeight.com/datalab/how-many-people-can-the-plants-in-one-city-feed/))
 
@@ -141,7 +141,7 @@ University of Colorado. Department of Computer Science, Social Committee Chair, 
 
 ## Research Collaborators (Selected)
 
-*  [Eric Anderson](http://systems.cs.colorado.edu/~andersoe/) (Carnegie Melon University)
+*  [Eric Anderson](http://systems.cs.colorado.edu/~andersoe/) (Carnegie Melon University; National Institute of Standards and Technology)
 *  Sam Bartels (University of Waikato)
 *  [Kevin Bauer](http://systems.cs.colorado.edu/~bauerk/) (Lincoln Labs)
 *  [Lee Becker](http://leebecker.com/) (Hapara)
@@ -160,9 +160,12 @@ University of Colorado. Department of Computer Science, Social Committee Chair, 
 *  [Grant Lipman](https://med.stanford.edu/profiles/grant-lipman) (Stanford)
 *  [Viveta Lobo](https://med.stanford.edu/profiles/viveta-lobo) (Stanford)
 *  [Tony McGregor](http://www.cs.waikato.ac.nz/genquery.php?linklevel=4&linklist=cs&linkname=J_to_P&linktype=report&listby=Name&lwhere=unique_record_id=11&children=) (University of Waikato)
+*  John Perkins (National Renewable Energy Laboratory)
 *  [Scott Raynel](http://www.wand.net.nz/~smr26/) (University of Waikato, New Zealand)
+*  Marcus Schwarting (Univeristy of Louisville)
 *  [Douglas Sicker](http://spot.colorado.edu/~sicker/index.html) (University of Colorado, Boulder)
 *  Russell Senior (Personal Telco Project)
 *  [Suresh Singh](http://cs.pdx.edu/~singh) (Portland State University)
 *  [Paul Veers](https://www.researchgate.net/profile/Paul_Veers) (National Renewable Energy Laboratory)
 *  Gary Yee (Penguin Computing)
+*  Andriy Zakutayev (National Renewable Energy Laboraty)
