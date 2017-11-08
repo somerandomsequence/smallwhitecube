@@ -33,7 +33,9 @@ Oregon in 2007.
 
 ## Popular Press (Selected)
 
-Garbage Can Teach Us a Lot About Food Waste. Smithsonian Magazine. August 26, 2016. By Whitney Pipkin. ([link](smithsonianmag.com/science-nature/garbage-can-teach-us-lot-about-food-waste-180960254/?no-ist))
+Just How Much Food do Cities Squander. WIRED Magazine. October 27, 2017. By Jessica Leigh Hester. ([link](https://www.wired.com/story/just-how-much-food-do-cities-squander/))
+
+Garbage Can Teach Us a Lot About Food Waste. Smithsonian Magazine. August 26, 2016. By Whitney Pipkin. ([link](http://smithsonianmag.com/science-nature/garbage-can-teach-us-lot-about-food-waste-180960254/?no-ist))
 
 The Materials Genome Initiative: The First Five Years. The Whithouse Blog. (w/r/t virtual, high-throughput experimentation facility). August 2, 2016. ([link](https://www.whitehouse.gov/blog/2016/08/01/materials-genome-initiative-first-five-years)).
 
