@@ -9,6 +9,8 @@ Here you will find an up to date list of my research publications and teaching a
 
 ## Published Datasets
 
+[High Throughput Experimental Materials Database](https://dx.doi.org/10.7799/1407128). The mission of the High Throughput Experimental Materials Database (HTEM DB) is to enable discovery of new materials with useful properties by releasing large amounts of high-quality experimental data to public. The HTEM DB contains information about materials obtained from high-throughput experiments at the National Renewable Energy Laboratory (NREL).
+
 [WIND Toolkit Offshore Summary Dataset](https://doi.org/10.7799/1375460). This dataset contains summary statistics for offshore wind resources for the continental United States derived from the Wind Integration National Datatset (WIND) Toolkit.
 
 [U.S. PV-Suitable Rooftop Resources](https://doi.org/10.7799/1258436). This dataset contains zipcode resolution estimates of suitable area on buildings' rooftops for photovoltaic deployment. 2016.
