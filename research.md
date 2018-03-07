@@ -135,6 +135,8 @@ National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://ww
 
 ## Academic Service Positions
 
+[High-Throughput Experimental Materials Collaboratory](https://mgi.nist.gov/htemc). National Institute of Standards and Technology (NIST). Workshop: Gaithersburg, MD. February 28 - March 2nd, 2018.
+
 Energy Efficient High Performance Computing Working Group Workshop at Supercomputing 2016. November 13, 2016. Oraganizing Comittee. [Program](https://eehpcwg.llnl.gov/pages/conf_sc16Program).
 
 ACM MobiSys 2012 Ph.D. Forum Workshop Chair. June, 2012.
