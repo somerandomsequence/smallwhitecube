@@ -35,6 +35,8 @@ Oregon in 2007.
 
 ## Popular Press (Selected)
 
+Power from wind: Open Data on AWS. Amazon Web Services (AWS) Big Data Blog. March 20, 2018. By Caleb Phillips, Caroline Draxl, John Readey, and Jordan Perr-Sauer. ([link](https://aws.amazon.com/blogs/big-data/power-from-wind-open-data-on-aws/))
+
 Just How Much Food do Cities Squander. WIRED Magazine. October 27, 2017. By Jessica Leigh Hester. ([link](https://www.wired.com/story/just-how-much-food-do-cities-squander/))
 
 Garbage Can Teach Us a Lot About Food Waste. Smithsonian Magazine. August 26, 2016. By Whitney Pipkin. ([link](http://smithsonianmag.com/science-nature/garbage-can-teach-us-lot-about-food-waste-180960254/?no-ist))
