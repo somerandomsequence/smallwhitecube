@@ -14,15 +14,11 @@ There's some other stuff I'm responsible for on the Internets:
 And, some other places you might find me:
 
 *  [Brewtoad](http://www.brewtoad.com/users/50568)
-*  [Couch Surfing](https://www.couchsurfing.org/people/cphillips/)
-*  [Facebook](http://www.facebook.com/profile.php?id=42001954)
 *  [Flickr](http://flickr.com/photos/somerandomsequence)
 *  [Github](https://github.com/somerandomsequence)
-*  [Gittip](https://www.gittip.com/Caleb%20Phillips/)
 *  [Good Reads](http://www.goodreads.com/user/show/1442825)
 *  [Instructables](http://www.instructables.com/member/cphillips/)
 *  [LinkedIn](http://www.linkedin.com/in/smallwhitecube)
-*  [Mealsharing](http://www.mealsharing.com/users/caleb-p)
 *  [Mountain Project](http://www.mountainproject.com/u/caleb_phillips/106046876)
 *  [PersonalTelco](http://wiki.personaltelco.net/CalebPhillips)
 *  [Ravelry](http://www.ravelry.com/people/caleb)
