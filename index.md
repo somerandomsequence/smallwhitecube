@@ -10,9 +10,6 @@ There's some other stuff I'm responsible for on the Internets:
 *  [Falling Fruit](http://fallingfruit.org) - A worldwide map of free food
 *  [Boulder Food Rescue](http://boulderfoodrescue.org) - Sustainable just-in-time food rescue
 *  [Strange Beta](http://strangebeta.com) - Climbing route setting with computers
-*  [SWCURL](http://swcurl.com) - Yet Another URL Shortener
-*  [Thesis Waldo](http://thesiswaldo.org) - Usage statistics for your thesis
-*  [Treehouse](http://treehouse.coop) - A small cooperative household in Boulder, Colorado
 
 And, some other places you might find me:
 
