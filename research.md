@@ -35,17 +35,19 @@ Oregon in 2007.
 
 ## Popular Press (Selected)
 
+Study: when it rains, snake bites soar. BBC World News Service. Rylee Carlson. September 6, 2018. (Also: [CU Press Release](https://www.colorado.edu/today/2018/09/05/when-it-rains-snake-bites-soar), [Stanford Press Release](http://med.stanford.edu/news/all-news/2018/09/drought-predictive-of-decrease-in-snakebites.html), [Popular Science Article](https://www.popsci.com/snakebite-rain))
+
 Power from wind: Open Data on AWS. Amazon Web Services (AWS) Big Data Blog. March 20, 2018. By Caleb Phillips, Caroline Draxl, John Readey, and Jordan Perr-Sauer. ([link](https://aws.amazon.com/blogs/big-data/power-from-wind-open-data-on-aws/))
 
 Just How Much Food do Cities Squander. WIRED Magazine. October 27, 2017. By Jessica Leigh Hester. ([link](https://www.wired.com/story/just-how-much-food-do-cities-squander/))
 
 Garbage Can Teach Us a Lot About Food Waste. Smithsonian Magazine. August 26, 2016. By Whitney Pipkin. ([link](http://smithsonianmag.com/science-nature/garbage-can-teach-us-lot-about-food-waste-180960254/?no-ist))
 
-The Materials Genome Initiative: The First Five Years. The Whithouse Blog. (w/r/t virtual, high-throughput experimentation facility). August 2, 2016. ([link](https://www.whitehouse.gov/blog/2016/08/01/materials-genome-initiative-first-five-years)).
+The Materials Genome Initiative: The First Five Years. The Whitehouse Blog. (w/r/t virtual, high-throughput experimentation facility). August 2, 2016. ([link](https://www.whitehouse.gov/blog/2016/08/01/materials-genome-initiative-first-five-years)).
 
 Open data moving food from farm to fork. Engineering and Technology Magazine. April 18, 2016. By Rosemary Peters. ([link](http://eandt.theiet.org/magazine/2016/04/open-data-farming.cfm))
 
-Rooftop solar panels could provide nearly half of US Power. April 14, 2016. By Prachi Patel. ([link](https://www.theguardian.com/environment/2016/apr/14/rooftop-solar-panels-could-provide-nearly-half-us-power))
+Rooftop solar panels could provide nearly half of US Power. The Gaurdian. April 14, 2016. By Prachi Patel. ([link](https://www.theguardian.com/environment/2016/apr/14/rooftop-solar-panels-could-provide-nearly-half-us-power))
 
 An Easy Way to Prevent Blisters? Try Tape. New York Times. Well. Physical Education. April 13, 2016. By Gretchen Reynolds. ([link](http://well.blogs.nytimes.com/2016/04/13/an-easy-way-to-prevent-blisters-try-paper-tape/))
 
