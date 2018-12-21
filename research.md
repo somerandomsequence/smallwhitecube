@@ -85,9 +85,11 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 ## Advising
 
-Jordan Perr-Sauer. National Renewable Energy Laboratory. Research Participant Program (RPP). University of Colorado, Denver. Data Science Intern. 2017. 
+[Harshil Kamdar](https://www.linkedin.com/in/harshil-kamdar-22475057/). US Department of Energy. Computational Science Graduate Research Fellow. University of Colorado, Boulder. Practicum Advisor. Summer, 2018.
 
-Alexander Van Roijen. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). SUNY Binghamton. Summer, 2017.
+[Jordan Perr-Sauer](https://www.linkedin.com/in/jordanperr/). National Renewable Energy Laboratory. Research Participant Program (RPP). University of Colorado, Denver. Data Science Intern. 2017. 
+
+[Alexander Van Roijen](https://www.linkedin.com/in/alexandervanroijen/). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). SUNY Binghamton. Summer, 2017.
 
 Rafael Orozco. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). University of Arizona. Summer, 2017.
 
@@ -109,6 +111,8 @@ Zach Doyle - Casey Feldman Foundation [Computer Science/Non-Profit Fellowship](h
 
 ## Awards
 
+National Renewable Energy Laboratory. Chairman's Award. November, 2018.
+
 National Renewable Energy Laboratory. Employee of the Month. December, 2016.
 
 National Renewable Energy Laboratory. President's Award. 2015.
@@ -128,6 +132,12 @@ Department of Computer Science. Outstanding Teaching Assistant. Spring, 2010.
 Department of Computer Science. Research and Community Development Award. 2009.
 
 ## Grants and Fellowships
+
+Department of Energy. Vehicle Technolohie Office. ATHENA: Advancing Transportation Hubs' Efficiency Using Novel Analytics. $5,000,000. 2018-2021. [Press release](https://www.nrel.gov/news/press/2018/nrel-to-lead-5-million-initiative-to-reduce-energy-use-and-increase-energy-efficiency-of-major-transportation-hub.html).
+
+Department of Energy. Wind Energy Technology Office - Lab Call. Distributed Wind: Tools Assessing Performance. Researcher and Co-PI with Heidi Tinnesand and Michael Lawson. 2018-2019.
+
+Department of Energy. Vehicle Technology Office - Lab Call. Livewire - Data Management Plaform for Energy Efficient Mobility Systems. Researcher and Co-PI with Johanna Levene. 2018-2020.
 
 National Renewable Energy Laboratory (NREL) Model and Tool Investment Prorgam (MTI). Wind Integration National Dataset (WIND) Toolkit Maintenance. Researcher and Co-PI with Caroline Draxl. 2017.
 
