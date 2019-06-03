@@ -71,6 +71,8 @@ CU-Boulder researchers find food rescue can feed the hungry. *Boulder Daily Came
 
 ## Teaching
 
+Open Projects in Data Science. University of Colorado, Fall 2019. Co-taught with Lindy Williams.
+
 Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2016. [Website](http://gsa.smallwhitecube.com)
 
 Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2015. [Website](http://gsa.smallwhitecube.com)
