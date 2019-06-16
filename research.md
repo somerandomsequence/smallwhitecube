@@ -142,19 +142,17 @@ Department of Computer Science. Research and Community Development Award. 2009.
 
 ## Grants and Fellowships
 
-Department of Energy. Vehicle Technolohie Office. ATHENA: Advancing Transportation Hubs' Efficiency Using Novel Analytics. $5,000,000. 2018-2021. [Press release](https://www.nrel.gov/news/press/2018/nrel-to-lead-5-million-initiative-to-reduce-energy-use-and-increase-energy-efficiency-of-major-transportation-hub.html).
+PI: Department of Energy. Vehicle Technologies Office. ATHENA: Advancing Transportation Hubs' Efficiency Using Novel Analytics. $5,000,000. 2018-2021. [Press release](https://www.nrel.gov/news/press/2018/nrel-to-lead-5-million-initiative-to-reduce-energy-use-and-increase-energy-efficiency-of-major-transportation-hub.html).
 
-Department of Energy. Wind Energy Technology Office - Lab Call. Distributed Wind: Tools Assessing Performance. Researcher and Co-PI with Heidi Tinnesand and Michael Lawson. 2018-2019.
+Co-PI: Department of Energy. Wind Energy Technology Office - Lab Call. Distributed Wind: Tools Assessing Performance. Researcher and Co-PI with Heidi Tinnesand and Michael Lawson. 2018-2019.
 
-Department of Energy. Vehicle Technology Office - Lab Call. Livewire - Data Management Plaform for Energy Efficient Mobility Systems. Researcher and Co-PI with Johanna Levene. 2018-2020.
+Co-PI: Department of Energy. Vehicle Technology Office - Lab Call. Livewire - Data Management Plaform for Energy Efficient Mobility Systems. Researcher and Co-PI with Johanna Levene. 2018-2020.
 
-National Renewable Energy Laboratory (NREL) Model and Tool Investment Prorgam (MTI). Wind Integration National Dataset (WIND) Toolkit Maintenance. Researcher and Co-PI with Caroline Draxl. 2017.
+Co-PI: National Renewable Energy Laboratory (NREL) Model and Tool Investment Prorgam (MTI). Wind Integration National Dataset (WIND) Toolkit Maintenance. Researcher and Co-PI with Caroline Draxl. 2017.
 
-National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). High-Throughput Experimental Materials Science Virtual Laboratory. Researcher and Co-PI with Andriy Zakutayev. 2017.
+Co-PI: National Renewable Energy Laboratory (NREL) Laboratory Directed Research & Development Program (LDRD). High-Throughput Experimental Materials Science Virtual Laboratory. Researcher and Co-PI with Andriy Zakutayev. 2017.
 
-National Science Foundation (NSF) Global Environment for Networking Innovation (GENI). Researcher/Network Engineer. University of Colorado, Boulder. GENI WiMax Project. 2010-2011.
-
-National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5284) (EAPSI) PI/Fellow. University of Waikato, New Zealand. Summer (Winter), 2010.
+Fellow: National Science Foundation (NSF) [East Asia Pacific Summer Institute](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5284) (EAPSI) PI/Fellow. University of Waikato, New Zealand. Summer (Winter), 2010.
 
 ## Academic Service Positions
 
