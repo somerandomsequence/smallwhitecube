@@ -13,9 +13,8 @@ There's some other stuff I'm responsible for on the Internets:
 
 And, some other places you might find me:
 
-*  [Brewtoad](http://www.brewtoad.com/users/50568)
-*  [Flickr](http://flickr.com/photos/somerandomsequence)
 *  [Github](https://github.com/somerandomsequence)
+*  [Flickr](http://flickr.com/photos/somerandomsequence)
 *  [Good Reads](http://www.goodreads.com/user/show/1442825)
 *  [Instructables](http://www.instructables.com/member/cphillips/)
 *  [LinkedIn](http://www.linkedin.com/in/smallwhitecube)
