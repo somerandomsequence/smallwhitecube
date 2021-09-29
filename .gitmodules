@@ -1,0 +1,3 @@
+[submodule "images/pubs"]
+	path = images/pubs
+	url = git@github.com:somerandomsequence/pubs.git
