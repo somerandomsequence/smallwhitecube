@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="/images/me_reading.jpg">
+<img src="/images/me_amadablam.jpg" width=700>
 
 Hi, my name is Caleb Phillips. This is my webpage. 
 
