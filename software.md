@@ -3,21 +3,33 @@ layout: page
 title: Software
 permalink: /software/
 ---
-I believe strongly in free culture and free-as-in-freedom software. Here are some open source projects I maintain:
+I believe strongly in free culture and free-as-in-freedom software. Here are some of my open source projects:
 
-## Active
+## Recentish
 
-[Falling Fruit](https://github.com/somerandomsequence/falling-fruit) - The source-code behind the non-profit 
+[Wind Toolkit HSDS Examples](https://github.com/NREL/hsds-examples) - Demonstration software and working examples for the
+Highly Scalable Data Service (HSDS) front end to the National Renewable Energy Lab's national wind dataset.
+
+[DW TAP Application](https://github.com/NREL/dw-tap-app) - Demonstration React application for the Distributed Wind 
+Tools Assessing Performance API and algorithms.
+
+## Ongoing
+
+[Falling Fruit Website](https://github.com/somerandomsequence/falling-fruit) - The source-code behind the non-profit 
 website [FallingFruit.org](http://fallingfruit.org), a platform for collaborating on a massive worldwide map
-of free food.
+of free food. Now maintained by a group of ~12 hackers.
+
+[Falling Fruit App](https://github.com/falling-fruit/falling-fruit-mobile) - Cordoba based (Android/iOS) mobile application
+and frontend for Falling Fruit. Initially funded through a crowdfunding campaign. Currently maintained by a small group of
+hackers.
 
 [Food Rescue Robot](http://github.com/somerandomsequence/food-rescue-robot) - Logistics software for tracking decentralized
 food recovery. Originally developed for [Boulder Food Rescue](http://boulderfoodrescue.org), now used by a dozen or more 
-organizations in cities around the US for managing their operations.
+organizations in cities around the US for managing their operations. Currently maintained by a group of nearly 30 hackers.
 
 [Small White Cube](https://github.com/somerandomsequence/smallwhitecube) - This website :)
 
-## Stable
+## Older Things
 
 [Parallel SSA](https://github.com/somerandomsequence/Parallel-SSA) - Code to perform spatial simulated annealing (SSA) in parallel on a compute cluster. Geared towards optimized sampling for my dissertation research.
 
