@@ -95,11 +95,11 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 [Jenna Ruzekowicz](https://www.linkedin.com/in/jenna-ruzekowicz-948064187/). National Renewable Energy Laboratory. Undergraduate Researcher. Stanford University. Co-Advisoed with Dmitry Duplyakin. Summer, 2023.
 
+[Yanbo Ge](https://www.linkedin.com/in/yanbo-ge-257587114/). National Renewable Energy Laboratory. Postdoctoral Researcher. 2019-2021.
+
 [Melissa Queen](https://www.linkedin.com/in/melissa-queen-105a4641/). US Department of Energy. Computational Science Graduate Research Fellow. University of Washington. Practicum Co-Advisor with Kristi Potter. Summer, 2019.
 
 [Grace Johnson](https://www.linkedin.com/in/k-grace-johnson-168154116/). US Department of Energy. Computational Science Graduate Research Fellow. Stanford. Practicum Co-Advisor with Ross Larson. Summer, 2019.
-
-[Yanbo Ge](https://www.linkedin.com/in/yanbo-ge-257587114/). National Renewable Energy Laboratory. Postdoctoral Researcher. 2019-2021.
 
 [Harshil Kamdar](https://www.linkedin.com/in/harshil-kamdar-22475057/). US Department of Energy. Computational Science Graduate Research Fellow. Harvard. Practicum Advisor. Summer, 2018.
 
