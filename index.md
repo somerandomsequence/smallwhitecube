@@ -7,8 +7,9 @@ Hi, my name is Caleb Phillips. This is my webpage.
 
 There's some other stuff I'm responsible for on the Internets:
 
-*  [Falling Fruit](http://fallingfruit.org) - A worldwide map of free food
+*  [Pica Pottery](http://picapottery.com) - A charitable micropottery in Boulder, CO, USA
 *  [Boulder Food Rescue](http://boulderfoodrescue.org) - Sustainable just-in-time food rescue
+*  [Falling Fruit](http://fallingfruit.org) - A worldwide map of free food
 *  [Strange Beta](http://strangebeta.com) - Climbing route setting with computers
 
 And, some other places you might find me:
