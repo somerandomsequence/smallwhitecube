@@ -35,6 +35,8 @@ Oregon in 2007.
 
 ## Popular Press (Selected)
 
+Can Home Wind Turbines Take Off in the U.S.? Jackie Snow. November 7, 2024. [Wall Street Journal](https://www.wsj.com/business/energy-oil/home-wind-turbines-us-future-926992d7?st=sHhFqk&reflink=desktopwebshare_permalink)
+
 Study: when it rains, snake bites soar. BBC World News Service. Rylee Carlson. September 6, 2018. (Also: [CU Press Release](https://www.colorado.edu/today/2018/09/05/when-it-rains-snake-bites-soar), [Stanford Press Release](http://med.stanford.edu/news/all-news/2018/09/drought-predictive-of-decrease-in-snakebites.html), [Popular Science Article](https://www.popsci.com/snakebite-rain))
 
 Bring on the Exercise, Hold the Painkillers. New York Times. Gretchen Reynolds. July 5, 2017. ([link](https://archive.nytimes.com/well.blogs.nytimes.com/2016/04/13/an-easy-way-to-prevent-blisters-try-paper-tape/))
@@ -91,7 +93,11 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 ## Advising
 
-[Yanan Da](https://www.linkedin.com/in/yanan-da/). National Renewable Energy Laboratory. Graduate Researcher. Emory University. Co-Advisoed with Kristi Potter. Summer, 2023.
+[Sameer Shaik](https://www.linkedin.com/in/sameer-shaik20/). National Renewable Energy Laboratory. Graduate Researcher. State Univerisity of New York Buffalo. 2024-2025.
+
+[Sara Guevara](https://www.linkedin.com/in/sara-sof%C3%ADa-abril-guevara-245865141). National Renewable Energy Laboratory. Graduate Researcher. University of California, Davis. 2024-2025.
+
+[Yanan Da](https://www.linkedin.com/in/yanan-da/). National Renewable Energy Laboratory. Graduate Researcher. Emory University. Co-Advised with Kristi Potter. Summer, 2023.
 
 [Jenna Ruzekowicz](https://www.linkedin.com/in/jenna-ruzekowicz-948064187/). National Renewable Energy Laboratory. Undergraduate Researcher. Stanford University. Co-Advisoed with Dmitry Duplyakin. Summer, 2023.
 
@@ -107,7 +113,7 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 [Alexander Van Roijen](https://www.linkedin.com/in/alexandervanroijen/). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). SUNY Binghamton. Summer, 2017.
 
-Rafael Orozco. US Department of Energy. Science Undergraduate Laboratory Internships (SULI). University of Arizona. Summer, 2017.
+[Rafael Orozco](https://www.linkedin.com/in/rafael42/). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). University of Arizona. Summer, 2017.
 
 [Marcus Schwarting](https://www.linkedin.com/in/marcus-s-a7779486). US Department of Energy. Science Undergraduate Laboratory Internships (SULI). University of Louisville. Co-mentored with Andriy Zakutayev. Spring, 2016, Fall, 2016, and Summer, 2017.
 
