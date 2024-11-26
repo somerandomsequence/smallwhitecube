@@ -35,7 +35,7 @@ Oregon in 2007.
 
 ## Popular Press (Selected)
 
-Can Home Wind Turbines Take Off in the U.S.? Jackie Snow. November 7, 2024. [Wall Street Journal](https://www.wsj.com/business/energy-oil/home-wind-turbines-us-future-926992d7?st=sHhFqk&reflink=desktopwebshare_permalink)
+Can Home Wind Turbines Take Off in the U.S.? Wall Street Journal. Jackie Snow. November 7, 2024. ([link](https://www.wsj.com/business/energy-oil/home-wind-turbines-us-future-926992d7?st=sHhFqk&reflink=desktopwebshare_permalink))
 
 Study: when it rains, snake bites soar. BBC World News Service. Rylee Carlson. September 6, 2018. (Also: [CU Press Release](https://www.colorado.edu/today/2018/09/05/when-it-rains-snake-bites-soar), [Stanford Press Release](http://med.stanford.edu/news/all-news/2018/09/drought-predictive-of-decrease-in-snakebites.html), [Popular Science Article](https://www.popsci.com/snakebite-rain))
 
@@ -154,6 +154,10 @@ Department of Computer Science. Outstanding Teaching Assistant. Spring, 2010.
 Department of Computer Science. Research and Community Development Award. 2009.
 
 ## Grants and Fellowships
+
+PI: Department of Energy. Wind Energy Technology Office. Distributed Wind Analysis. $1.8M. 2023-2025.
+
+Co-PI: Department of Energy. Vehicle Technologies Office. Athena Zero Emission Vehicles. $6M. Researcher and Co-PI with Monte Lunacek. 2023-2026.
 
 PI: Department of Energy. Vehicle Technologies Office. ATHENA: Advancing Transportation Hubs' Efficiency Using Novel Analytics. $5,000,000. 2018-2021. [Press release](https://www.nrel.gov/news/press/2018/nrel-to-lead-5-million-initiative-to-reduce-energy-use-and-increase-energy-efficiency-of-major-transportation-hub.html).
 
