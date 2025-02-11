@@ -16,6 +16,9 @@ And, some other places you might find me:
 
 *  [Github](https://github.com/somerandomsequence)
 *  [Flickr](http://flickr.com/photos/somerandomsequence)
+*  [Glass](https://glass.photo/somerandomsequence)
+*  [Wikiloc](https://www.wikiloc.com/wikiloc/user.do?id=10285647)
+*  [Bluesky (@bikefar)](https://bsky.app/profile/bikefar.bsky.social)
 *  [Good Reads](http://www.goodreads.com/user/show/1442825)
 *  [Instructables](http://www.instructables.com/member/cphillips/)
 *  [LinkedIn](http://www.linkedin.com/in/smallwhitecube)
