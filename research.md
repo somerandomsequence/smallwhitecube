@@ -77,6 +77,8 @@ CU-Boulder researchers find food rescue can feed the hungry. *Boulder Daily Came
 
 ## Teaching
 
+Geospatial Data Analysis (Online Course). University of Colorado. Data Science MS. 2026.
+
 Open Projects in Data Science. University of Colorado, Fall 2019. Co-taught with Lindy Williams.
 
 Geospatial Data Analysis (CSCI 4830/7000). University of Colorado, Spring 2016. [Website](http://gsa.smallwhitecube.com)
@@ -93,7 +95,7 @@ Introduction to Programming (CSCI 1300). Teaching Assistant. University of Color
 
 ## Advising
 
-[Sameer Shaik](https://www.linkedin.com/in/sameer-shaik20/). National Renewable Energy Laboratory. Graduate Researcher. State Univerisity of New York Buffalo. 2024-2025.
+[Sameer Shaik](https://www.linkedin.com/in/sameer-shaik20/). National Renewable Energy Laboratory. Graduate Researcher. State Univerisity of New York Buffalo. 2024-2026.
 
 [Sara Guevara](https://www.linkedin.com/in/sara-sof%C3%ADa-abril-guevara-245865141). National Renewable Energy Laboratory. Graduate Researcher. University of California, Davis. 2024-2025.
 
@@ -155,9 +157,11 @@ Department of Computer Science. Research and Community Development Award. 2009.
 
 ## Grants and Fellowships
 
-PI: Department of Energy. Wind Energy Technology Office. Distributed Wind Analysis. $1.8M. 2023-2025.
+PI: Department of Energy. Wind Energy Technology Office. WindWatts. $0.9M. 2025-2026. [Website](http://windwatts.nlr.gov).
 
-Co-PI: Department of Energy. Vehicle Technologies Office. Athena Zero Emission Vehicles. $6M. Researcher and Co-PI with Monte Lunacek. 2023-2026.
+PI: Department of Energy. Wind Energy Technology Office. Distributed Wind Analysis. $2.8M. 2023-2026. [Website](http://dw.nlr.gov).
+
+Co-PI: Department of Energy. Vehicle Technologies Office. Athena Zero Emission Vehicles. $6M. Researcher and Co-PI with Monte Lunacek. 2023-2026. [Website](https://aeroportal.nrel.gov/athena/).
 
 PI: Department of Energy. Vehicle Technologies Office. ATHENA: Advancing Transportation Hubs' Efficiency Using Novel Analytics. $5,000,000. 2018-2021. [Press release](https://www.nrel.gov/news/press/2018/nrel-to-lead-5-million-initiative-to-reduce-energy-use-and-increase-energy-efficiency-of-major-transportation-hub.html).
 
