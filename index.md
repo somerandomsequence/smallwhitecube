@@ -7,7 +7,7 @@ Hi, my name is Caleb Phillips. This is my webpage.
 
 There's some other stuff I'm responsible for on the Internets:
 
-*  [Pica Pottery](http://picapottery.com) - A charitable micropottery
+*  [Pica Pottery](http://picapottery.com) - A high desert micropottery
 *  [Boulder Food Rescue](http://boulderfoodrescue.org) - Sustainable just-in-time food rescue
 *  [Falling Fruit](http://fallingfruit.org) - A worldwide map of free food
 *  [Strange Beta](http://strangebeta.com) - Climbing route setting with computers
